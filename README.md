@@ -1,7 +1,8 @@
 # How Knowledge Travels
 
-[Open the presentation](https://alicetinkaya76.github.io/how-knowledge-travels/)
+Dr. Ali Çetinkaya’s English-language presentation on the movement of knowledge across Islamic societies for *Feel the Islamic Spirit*, 22 November 2026.
 
-Dr. Ali Çetinkaya’s English-language visual presentation on knowledge in Islamic civilizations for *Feel the Islamic Spirit*, 22 November 2026.
+- [90-minute presentation](https://alicetinkaya76.github.io/how-knowledge-travels/) · 28 scenes, with demonstrations and time for questions.
+- [Extended 120-minute presentation](https://alicetinkaya76.github.io/how-knowledge-travels/extended/) · 40 scenes, with additional historical sources and comparisons.
 
-Choose the 120-minute presentation or the 90-minute route from the top bar. Use the arrow keys to advance, **F** for full screen, and **C** for sources and image credits. The same `index.html` can be opened in a browser offline.
+In the 90-minute presentation, use the arrow keys to open reveals and advance. Press **F** for full screen, **B** to hide or restore the controls, **M** for contents and **C** for sources and image credits. Each HTML file contains its slide images, fonts and demonstrations and can be opened in a browser offline.
