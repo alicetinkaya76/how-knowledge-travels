@@ -6,7 +6,7 @@ Dr. Ali Çetinkaya’s English-language presentation for *Feel the Islamic Spiri
 
 [Open the presentation](https://alicetinkaya76.github.io/how-knowledge-travels/).
 
-The question holding the talk together is **What changes when knowledge finds a new community?** Five acts connect new readers, trustworthy texts, new explanations, learning networks and living cultures. The live session contains 31 main slides scheduled for 85 minutes and 5 minutes of audience questions. Six optional source slides remain available through Contents.
+The question holding the talk together is **What changes when knowledge finds a new community?** Five acts connect new readers, trustworthy texts, new explanations, learning networks and living cultures. The live session contains 32 main slides: 31 narrative slides scheduled for 85 minutes, followed by 5 minutes of audience questions. Six optional source slides remain available through Contents.
 
 Use the arrow keys for slides and reveals. Press **F** for full screen, **B** to hide or restore controls, **M** for Contents and **C** for sources. Select archival images to enlarge them. The normal path stops at questions; optional slides have a return button. Leaflet maps support zoom, pan, dated markers and individually playable connections, including an eastern craft witness and return trade.
 
@@ -14,9 +14,11 @@ The single HTML file embeds images, fonts, demonstrations and the Natural Earth 
 
 Separate materials:
 
-- [Timed presenter script](script/How%20Knowledge%20Travels%20-%2090-Minute%20Speaker%20Script.docx)
+- [Revised timed presenter script](script/How%20Knowledge%20Travels%20-%20Speaker%20Script%20with%20Meaning.docx)
 - [ElevenReader EPUB](script/How%20Knowledge%20Travels%20-%20ElevenReader%20Listening%20Script.epub)
 - [ElevenReader plain text](script/How%20Knowledge%20Travels%20-%20ElevenReader%20Listening%20Script.txt)
 - [Run of show](script/Run%20of%20Show.txt)
 
 The presenter script uses approximately 110 words per minute plus planned activities and flexible time. The continuous listening edition removes presenter cues, audience question time and optional sources; its playback duration depends on the selected voice and speed.
+
+The revised narration explains the purpose and consequence of each example within the spoken text. The Canon section explains the title, its systematic medical framework, documented Latin university use, and two historical clinical problems using actual facsimile passages. The manuscript and textbook examples remain distinguished from modern teaching illustrations.

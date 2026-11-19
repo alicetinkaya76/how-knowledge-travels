@@ -1,0 +1,189 @@
+SLIDE PURPOSES FOR THE PRESENTER
+
+These are planning notes. The same reasoning is developed in the spoken narration, not merely left here.
+
+S01 · How Knowledge Travels
+Evidence: al-Idrīsī’s south-up world map, its rotation, and the Muslim scholar’s work for Roger II
+What it establishes: Readers bring conventions to knowledge; work can cross religious and political settings through shared purposes.
+Why this matters: The first encounter makes unfamiliarity intelligible and locates Islamic learning in relationships among communities rather than in a single isolated culture.
+Bridge: Ordinary English words preserve further encounters even when their users no longer recognize the route.
+
+S02 · You already speak this history
+Evidence: Zero, algebra and algorithm; their Arabic forms and the name al-Khwārizmī
+What it establishes: A useful method can be learned and retaught across languages until its earlier setting disappears from everyday awareness.
+Why this matters: The audience encounters the continuing work of this history in concepts they already use; etymology leads to questions about use and teaching.
+Bridge: Following those clues requires attentive examination of the past, joined to the Qur’anic invitation to look.
+
+S03 · Travel, and look
+Evidence: Qur’an 3:137 in Arabic with its invitation to travel and look
+What it establishes: The verse calls for reflection on earlier peoples and their fate; the webinar’s historical looking similarly asks what events and objects meant for people.
+Why this matters: Shared faith gives a reason to care about the inheritance while close attention reveals the specific labour behind its achievements.
+Bridge: Such care can be understood through amānah, the trust carried by a learner.
+
+S04 · Knowledge is a trust
+Evidence: Receive, Test, Add, Pass on; Qur’an 20:114
+What it establishes: Access, examination, correction or explanation, and availability are distinct responsibilities in learning.
+Why this matters: The framework turns the moral idea of a trust into questions the audience can follow through particular historical decisions.
+Bridge: The first concrete access problem is a physician unable to study a medical text in its existing language.
+
+S05 · A medical book finds Arabic readers
+Evidence: The 1224 Arabic Dioscorides folio and an earlier Greek illustrated manuscript
+What it establishes: Specialist translation made inherited medical accounts available for study and teaching in Arabic, drawing on Christian translators and several scholarly languages.
+Why this matters: Arabic medical learning widened participation through expertise shared across religious communities; a new language of study required judgement as well as language skills.
+Bridge: A translator still depended on finding manuscripts complete enough to translate.
+
+S06 · Ḥunayn searches for a missing argument
+Evidence: Ḥunayn’s search regions and the incomplete, disordered half of On Demonstration found in Damascus
+What it establishes: Recovering a text determines which arguments a later reader can actually examine; translation cannot supply missing logical connections.
+Why this matters: Islamic learning inherited uneven survivals, and explicit records of gaps preserved a recoverable research problem rather than disguising a fragment as completeness.
+Bridge: When more manuscripts became available, an existing translation could also need revision.
+
+S07 · Ḥunayn returns to his own translation
+Evidence: On Sects: the early faulty Greek copy, comparison of later Greek copies, Syriac revision, and Arabic translation
+What it establishes: Comparing source manuscripts before revising the translation addressed textual defects and interpretive errors separately.
+Why this matters: Arabic readers benefited from prior critical work; they gained a more reliable account to teach and judge, showing how receiving older knowledge also improved its usable form.
+Bridge: An intellectually revised text still needed material production and circulation to reach readers.
+
+S08 · A translation needs a book
+Evidence: Parchment and paper Qur’an folios, gatherings, sewing and protective cover; qalam and ream
+What it establishes: Each usable additional copy required material supply and skilled production; binding kept a sustained explanation together for repeated consultation.
+Why this matters: The extent of learned access depended on crafts and supplies as well as authors and translators.
+Bridge: A reader able to obtain a copy still needed to discover which work to request.
+
+S09 · The bookseller’s map of knowledge
+Evidence: The Fihrist paper paragraph in the 1871 edition, with named paper supplies including Jaʿfarī, Ṭalḥī and Ṣīnī
+What it establishes: The paper paragraph exposes the supply knowledge inside a warrāq’s account of books; his trade joined discoverable titles to the practical means of copying them.
+Why this matters: Finding out that a work existed and having the materials to obtain a copy were connected requirements of access; the actual page shows the second inside the same book world as the catalogue.
+Bridge: Chinese paper leads into the geographical network that supported manuscript production.
+
+S10 · Paper travelled through a network
+Evidence: A dated network of paper manufacture, trade and craft witnesses.
+What it establishes: Moving sheets and establishing local workshops are different ways in which the conditions for learning spread.
+Why this matters: Intellectual work depended on communities having the materials and skills to keep texts available; the network also prevents us from imagining a one-way relay ending in Europe.
+Bridge: Once a community can obtain and copy books, the question becomes what an author can teach it to understand.
+
+S11 · Algebra: turn an instruction into a reason
+Evidence: Al-Khwārizmī’s square-and-ten-roots example, geometric completion, equality check, and Arabic and Latin manuscript witnesses
+What it establishes: A geometric argument explains each step of the rule, preserves equality and enables learners to detect a mistake and apply the method to another case.
+Why this matters: The mathematical work joins practical problem solving to a teachable reason, making the method available for independent examination and further development.
+Bridge: A different community would put mathematical methods to work in Mediterranean trade.
+
+S12 · From Béjaïa to a merchant’s classroom
+Evidence: Fibonacci’s education in Béjaïa, positional numerals and zero, abbaco classrooms, and Treviso commercial arithmetic
+What it establishes: Place value organizes calculation into repeatable, checkable written steps; teaching makes that structure useful through the audience’s language and problems.
+Why this matters: North African learning belongs within the history of European mathematical education, whose later forms required their own teaching work and commercial purposes.
+Bridge: Reason checks a numerical calculation; the next scenes ask how observation can check an account of light.
+
+S13 · How can light turn a scene upside down?
+Evidence: A real inverted bedroom projection, Brown University’s larger lens-assisted room projection, then a simple ray model.
+What it establishes: A small opening preserves an ordered relation between outdoor points and points on the receiving wall. Straight paths cross at the opening, explaining inversion and predicting the effect of moving the screen.
+Why this matters: The audience can work backwards from a projected point to a source direction and predict how the image changes. Ibn al-Haytham’s investigations belong here as work in Islamic scientific culture that made light’s behaviour open to arranged observation and explanation; establishing light’s path is a distinct task from explaining all of sight.
+Bridge: The ray model raises a testable uncertainty: when different paths share the opening, do they remain independent afterwards?
+
+S14 · Three lamps, one opening
+Evidence: A teaching reconstruction of Ibn al-Haytham’s several-lamp experiment, with three sources, one opening and separate reversed spots; lamp A is screened during the unchanged 15-second activity.
+What it establishes: Screening one source removes its corresponding spot while the other spots remain. Meeting at one opening has preserved independent source-to-destination paths.
+Why this matters: The particular intervention distinguishes the paths: covering the shared opening would extinguish every spot and fail to show their independence. The result gives the separate geometrical rays an experimental basis, making a specific Arabic optical argument understandable and checkable.
+Bridge: Light reaching a wall is established; explaining sight now requires identifying what receives incoming light in the eye.
+
+S15 · A new answer inside the eye
+Evidence: An Arabic Book of Optics manuscript with the visual-system diagram, Bacon’s Latin Perspectiva manuscript and Kepler’s 1604 title page, supported by a modern retinal-image schematic.
+What it establishes: Ibn al-Haytham connected incoming light with an account of the eye that centred the crystalline humour; Latin scholars worked with his arguments; Kepler explained an inverted retinal picture. Image formation still leaves perception to be explained.
+Why this matters: The audience can distinguish three problems—light’s path, its receiving structure and perception—rather than treating a correct dark-room model as a complete theory of sight. The Arabic contribution made substantial arguments available for further work, including revision of an important answer, without implying an unverified direct lineage or that Kepler settled perception.
+Bridge: The next case changes the task from explaining a physical effect to designing a reliable sequence of effects, returning explicitly to al-Jazarī in 1206.
+
+S16 · Design a cycle that begins again
+Evidence: The 1315 manuscript illustration of al-Jazarī’s elephant clock and the existing fill–release–reset teaching cutaway, with the intended half-hour interval and clearly identified illustrative alternatives.
+What it establishes: Repeated timekeeping requires a reset: the mechanism must lift and empty the bowl so that the next interval begins under the same conditions.
+Why this matters: The audience can diagnose why a clock might announce once and then fail, and see why one successful performance is insufficient. Al-Jazarī’s courtly engineering becomes written knowledge of dependencies and repeatability that another maker can study and attempt to reproduce.
+Bridge: Craft and teaching need time, materials and support; the following scenes examine how Islamic societies funded learning and authorized learners.
+
+S17 · Who pays? Who teaches?
+Evidence: A 1360 endowed Qur’an stand; a 1791 calligraphy diploma; evidence for Karīma al-Marwaziyya and Zaynab bint al-Kamāl as hadith authorities.
+What it establishes: Continued learning required both recurring material support and a knowledgeable person willing to authorize and check a learner’s work.
+Why this matters: The stand becomes evidence of making access repeatable; the diploma links competence to examined practice. The two women’s authority changes who belongs in our picture of Islamic scholarly leadership: their expertise and names sustained what students could transmit.
+Bridge: Dedicated support could sustain a whole institution; Cairo, Oxford and Cambridge provide different institutional answers.
+
+S18 · Who funds a place to learn?
+Evidence: Sultan Hasan’s endowed teaching complex, Merton’s community of scholars, and Lady Margaret’s endowed divinity post; the etymologies of college and chair.
+What it establishes: Institutions with different rules could turn dedicated income into time and continuity for learning.
+Why this matters: This explains the practical comparison without treating a shared solution or a word’s origin as proof that one institution directly descended from another.
+Bridge: Protected teaching time raises the next question: how a textbook gave that teaching an order.
+
+S19 · How the Canon became a textbook
+Evidence: Arabic and Latin Canon editions, its opening definition, its five-book arrangement, and evidence of assigned reading and commentary.
+What it establishes: The Canon’s organization made medical information into a teachable sequence that readers could use and debate.
+Why this matters: The Canon gave Latin-reading teachers an extensive medical system around which to organize principles, signs, drugs and treatment. Bologna’s assigned readings and Despars’s commentary show this synthesis becoming a sustained framework for learning and debate.
+Bridge: Two passages show what a student could learn from that system in recognizable clinical problems.
+
+S20 · What could a student learn from the Canon?
+Evidence: Actual printed passages on fracture and urinary signs in a modern English translation of Book I.
+What it establishes: The Canon links general knowledge with observable signs and clinical judgments, within its own historical theories.
+Why this matters: A learner could connect a procedure or sign with reasons for using it, rather than memorize an isolated remedy.
+Bridge: A translated teaching book can be examined at the level of its clinical reasoning or its numerical procedures.
+
+S21 · When a translator checks the numbers
+Evidence: An arc-and-chord diagram, a numerical page, and Arabic and Latin table witnesses.
+What it establishes: Recalculation could test inherited values against a written procedure during translation, although the responsible calculator is uncertain.
+Why this matters: Faithful copying can preserve an error. Repeating a calculation provides an independent check, so translation can produce scrutinized mathematical content as well as understandable words.
+Bridge: An astrolabe makes mathematical relationships movable and usable beneath the sky.
+
+S22 · The sky in your hand
+Evidence: Muḥammad ibn al-Ṣaffār’s Toledo astrolabe of 1029/30, its rotating star map and latitude plate, with the unchanged Baghdad/Istanbul model comparison.
+What it establishes: The star map can stay while the local latitude plate changes, because the same stellar arrangement meets different horizons at different latitudes. An observed star altitude can be matched to the model and used with the date’s solar position to find time.
+Why this matters: The audience learns what the latitude plate contributes and why an accurate measurement paired with the wrong plate can mislead. The Toledo maker’s achievement is to embody mathematical astronomy in a portable instrument that can be adjusted and operated in a particular place.
+Bridge: Separating the parts makes visible how the device changes its local horizon while retaining its moving star map.
+
+S23 · Take an astrolabe apart
+Evidence: The existing photograph of a disassembled Dresden astrolabe, identifying case, plates, rete, central pin and alidade with the existing Arabic and Latin terminology.
+What it establishes: The layered construction separates measurement, the local horizon and the moving star map, allowing the latitude setting to change without rebuilding the whole instrument.
+Why this matters: The parts now answer a design question rather than supplying a vocabulary list. The audience can explain which layer a traveller changes and why, preparing them to understand the stakes of the inscriptions on the next instrument.
+Bridge: A workable mechanism can reach a user who cannot read its labels; the Verona instrument shows how that obstacle was addressed.
+
+S24 · One instrument, new readers
+Evidence: The Córdoba plate of the eleventh-century Andalusian astrolabe now in Verona: original Arabic latitude 38°30′, Gigante’s qualified Hebrew city reading, and later Western numerals 36 and 36.5.
+What it establishes: Making a city label accessible and amending its latitude are different operations. The later numerical amendments were less accurate; an adaptation can introduce an error while another adaptation removes a language barrier.
+Why this matters: A wrong numerical label could make a user choose a plate for a latitude its curves do not represent. This object records the reach and continued use of scientific craftsmanship made in an Islamic society, while its erroneous corrections prevent a story of automatic progress as knowledge travels.
+Bridge: Chaucer tackles the same problem of access through a deliberately designed English lesson for a named learner.
+
+S25 · Chaucer teaches the astrolabe in English
+Evidence: The displayed prologue to Chaucer’s Treatise, its named learner Lowys and Oxford latitude, plus the later drawing with Aldebaran’s star pointer.
+What it establishes: Chaucer makes a demanding inherited instrument usable by fitting language, sequence and repetition to Lowys. The learner can use English instruction to turn a sky observation into a time reading while retaining an inherited Arabic star name.
+Why this matters: Language choice changes access to useful astronomical knowledge. The Oxford plate meets the learner’s place and the English exposition meets his language: the lesson joins the travelling science to what this particular learner can actually do.
+Bridge: The instruction also needs a material carrier; European paper travelling east into a Qur’an manuscript will show another direction of exchange.
+
+S26 · Paper travels in both directions
+Evidence: QUR 561, copied c. 1340 in Iraq or Iran on Italian paper; the cross watermark is a documented material finding and is not visible in the displayed opening.
+What it establishes: Paper’s movement eastwards to become the support of a Qur’an manuscript demonstrates continuing exchanges in several directions.
+Why this matters: The sheet breaks a simple relay story in which Islamic societies pass knowledge west and leave the scene. Communities remained active buyers, users and makers, choosing material for their own purposes; the mark identifies manufacture and the writing identifies the use.
+Bridge: West African family libraries show books serving another community’s teaching, worship and intellectual life.
+
+S27 · Timbuktu’s living archive
+Evidence: A 1733 astronomy copy, an arithmetic commentary, and separate preservation episodes: the 2004 collaboration, 2012–13 evacuation and 2015–2023 HMML digitization.
+What it establishes: Timbuktu’s manuscripts preserve people’s work of explanation, calculation and composition, maintained by named families and custodians.
+Why this matters: The diagrams and worked examples reveal the purposes of scholarly books and establish West African Muslims as participants in making knowledge. The evacuation preserved evidence of that work, and digital access depends on the continuing care of originals.
+Bridge: Djenné shows another kind of intellectual continuity through maintaining a mosque and teaching material skills.
+
+S28 · One prayer, two buildings
+Evidence: Djenné’s earthen mosque and Demak’s tiered timber roof; modern initial qibla bearings with a clear historical-alignment caveat.
+What it establishes: Shared prayer and a shared qibla could be expressed through different local materials, forms and building knowledge.
+Why this matters: Religious unity does not demand one architectural culture. Each community made Muslim worship part of its setting, and maintenance transmitted knowledge through skilled work.
+Bridge: Arabic-based writing systems provide a related case of shared inheritance adapted to local needs.
+
+S29 · Jawi and Ottoman Turkish
+Evidence: Jawi and Ottoman P letters, the 1797 Semarang copy of Hikayat Raja Pasai, and Paros in a later copy of Pîrî Reis’s Book of Navigation.
+What it establishes: A shared script does not make languages identical; adapted signs let Malay and Ottoman Turkish carry their own substantial written work.
+Why this matters: The sound changes become meaningful through what they enable: recording history for Malay readers and connecting maritime descriptions with places. Shared Islamic connections could coexist with multiple languages of understanding.
+Bridge: The examples return to the assigned title: how knowledge travelled as Islamic life took root in different cultures.
+
+S30 · What made these journeys possible?
+Evidence: Receive, Test, Add and Pass on, revisited with the preceding evidence, followed by a quiet recognition moment.
+What it establishes: Knowledge travelled through the work of making it understandable, checked, supported and useful in particular communities.
+Why this matters: The synthesis answers both halves of the title with causes and consequences. Its recognition moment affirms the faith the Muslim audience already shares and makes cultural and linguistic difference intelligible within that belonging, without assigning homework.
+Bridge: The closing prayer expresses openness to further understanding.
+
+S31 · Rabbi zidnī ʿilmā
+Evidence: Qur’an 20:114, Rabbi zidnī ʿilmā, and thanks.
+What it establishes: The prayer gathers the histories of revision, checking, teaching and care into an expression of humility and gratitude.
+Why this matters: It closes the argument in the audience’s shared faith while naming the human work that gives the idea of entrusted knowledge historical substance.
+Bridge: Five minutes for genuine audience questions.
