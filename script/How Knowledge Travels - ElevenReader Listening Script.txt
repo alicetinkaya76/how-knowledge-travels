@@ -4,538 +4,447 @@ Dr. Ali Cetinkaya.
 
 How Knowledge Travels
 
-As-salamu alaykum wa rahmatullah. I’m Ali Cetinkaya. It’s good to be with you.
+As-salamu alaykum wa rahmatullah. I’m Ali Cetinkaya. Welcome. We have come together as Muslims from different places, and we bring different journeys into the faith. Before we begin, find a coastline you recognize on this map. Which way round were you expecting the world to be?
 
-Imagine opening a medieval map of the world. You expect north at the top. This map invites you to turn that expectation around.
+In the manuscript’s orientation, south is at the top. Africa sits above the Mediterranean, and Europe below it. Turning the page makes familiar places easier for many of us to recognize, although the coastlines themselves have not moved. We have changed the habits with which we read them.
 
-South is at the top. Africa is above the Mediterranean and Europe is below it. The page comes from a later copy of a geography completed in one thousand one hundred and fifty-four by al-Idrisi, a Muslim scholar working for Roger the Second, the Christian king of Sicily. Rotate the map in your mind and picture north at the top. The coastlines haven't moved. What changes is the habit you bring to reading them.
+The geography behind this later copy was completed in one thousand one hundred and fifty-four by al-Idrisi, a Muslim scholar working for Roger the Second, the Christian king of Sicily. That partnership gives us our starting point: knowledge could take shape where people with different religious commitments shared a task.
 
-Today we’ll ask what happens when a book, a method or a tool reaches people who bring different habits to it. What do they learn from it, and what can they do with it that its earlier readers couldn't?
+When I say Islamic civilization this evening, I mean societies shaped by Islam, where Muslims, Christians, Jews and others worked in several languages and many professions. Their shared world included scholars and rulers, but also merchants, craftspeople, teachers and families. We will meet particular people making particular choices; religion is part of that history, alongside the conditions that made their work possible.
 
-A map carries habits for reading the world. Before we look at words, let’s follow a set of signs that changed the way Europeans wrote numbers.
+Our question is: what changes when knowledge finds a new community? Sometimes the language changes. Sometimes an explanation is tested, or an instrument is adapted to another place. The people receiving it have work of their own to do.
 
-
-From Bejaia to the abbaco schools
-
-Begin on the North African coast. In the late twelfth century, a boy from Pisa learned arithmetic in Bejaia, in present-day Algeria. His father worked there with Pisan merchants. The boy, Fibonacci, tells us about his education at the beginning of the Liber abbaci. A later manuscript copy includes the famous rabbit problem. The same Indian place-value system, taught to him in the Arabic-speaking Mediterranean, let readers work out prices and divide profits. What does an empty tens place need? A zero. Turn twenty-five into two hundred and five and the two now counts hundreds instead of tens. In his Latin book the Arabic sifr becomes zephirum.
-
-What was an abbaco school? A lay school where boys, often from merchant and artisan families, learned to calculate in their own language. Teachers gave them problems in prices, money, weights and partnership. Some teachers made a living from fees. Others elsewhere in Italy were paid by their town. The Florentine chronicler Giovanni Villani counted six schools in the late thirteen thirties, with roughly a thousand to twelve hundred boys. His count shows how established these schools already were. Lay education had a longer history.
-
-Suppose three lengths of cloth cost twelve florins. Five lengths will cost twenty. Calculate the price of one length first. Then multiply by five. This is the kind of proportional problem an early printed handbook from Treviso put into Venetian. A lesson that travelled across the Mediterranean had become a book a local merchant could read.
-
-The calculation travelled. So did the words people used to teach it.
+Traces of those encounters are already in the words we use.
 
 
 You already speak this history
 
-In Rihlat al-Kalimat, my project on the journey of words, we follow how names travel between languages. Consider zero, algebra, algorithm, zenith, nadir, azimuth, alkali and syrup. Some help us calculate. Others locate a point in the sky or name a substance.
+In my project Rihlat al-Kalimat, the journey of words, I follow what happens as words move between languages. Three on this screen will accompany us today: zero, algebra and algorithm. Even if Arabic is new to you, these may already be familiar companions.
 
-All eight came to English through Arabic. Which of them, though, carries the name of a person? Make a choice before hearing the answer.
+One carries a person’s name. Choose which one, silently or in the chat.
 
-The word is algorithm. It comes from the Latinized name of al-Khwarizmi. Zero comes from sifr, and algebra comes from al-jabr. Each word carries a history. In a little while we’ll solve one of his problems ourselves.
+Algorithm carries the name al-Khwarizmi, a scholar whose work we will try together. Algebra comes from al-jabr, part of the title of his book. Zero comes through a longer journey from sifr. We will meet a Latin author who explains both the Indian numerals he learned and the Arabic name for their zero.
 
-Zenith and nadir describe opposite points, directly above and directly below. Azimuth tells us a direction around the horizon. Your telescope or navigation software may use the same vocabulary. Alkali comes from a word for ashes, and syrup comes from sharab, a drink. Those are clues to older uses of the terms.
+These words are small pieces of evidence. An English word can preserve a trace of an Arabic title, while that Arabic work draws on learning from elsewhere. Names can acknowledge a debt even after the people using them have forgotten the journey. Following the word opens a door; the fuller story asks who learned the method, why it was useful, and what they did with it.
 
-Think of the route we have just seen. Much of Europe called the digits ‘Arabic numerals’. Medieval Arabic-speaking scholars wrote about ‘Indian reckoning’. Each name gives us a different point of view on how the notation travelled. We can do the same with a word. Follow its form and then ask which book, instrument or task made that form useful. We’ll do that as we move through the talk.
-
-A word can carry a trace of what somebody learned from another person. As we follow that process, I’d like to keep two actions in view. A verse names them simply.
+The invitation to travel also asks something of the traveller: pay attention to what you find.
 
 
 Travel, and look
 
-Fa-siru fi l-ardi fa-nzuru. “So travel through the land and look.” In Surah Ali Imran, verse one hundred and thirty-seven, the words that follow ask us to observe what became of earlier people who denied the message. The verse connects movement with attention to what we find.
+Fa-siru fi l-ardi fa-nzuru. So travel through the land and look.
 
-This evening we will travel through books and objects. We can look at a manuscript, compare a translation, or test an explanation of light. Each asks us to pay attention to the evidence in front of us.
+In Surah Ali Imran, verse one hundred and thirty-seven, this invitation concerns the fate of earlier peoples who denied the message. Travel is joined to reflection on what happened before us. That context matters when we bring the verse into a conversation about history.
 
-Learning brings a responsibility for what we pass to somebody else. There’s an Arabic word that names that responsibility.
+Our journey tonight will be through surviving pages, instruments and buildings. We can admire their beauty and still ask what they actually tell us. A date locates a copy; a note may identify a reader; a diagram can preserve an argument. Putting these clues together takes patience, especially when something has been lost. Looking also means being willing to revise our first impression.
+
+For me, looking carefully belongs with caring about what we learn.
+
+That care has an ethical name: amanah, a trust.
 
 
 Knowledge is a trust
 
-That word is amanah, a trust. A book or an idea can be entrusted to us. What do we do with it?
+Knowledge is a trust. Receive it. Test it. Add to it. Pass it on. These four verbs are a way of examining our responsibility. In the stories ahead, several may belong to the same person, even to the same afternoon’s work.
 
-Receive. This copy makes a Greek physician’s work readable in Arabic.
+Rabbi zidni ilma. My Lord, increase me in knowledge. This prayer leaves room for something we have yet to understand, including a correction to something we thought we knew. It gives humility a place in the work of learning. We will return to it at the end.
 
-Test. Special photography helps us check old writing beneath newer ink.
+In Baghdad, receiving an older medical tradition began with a very practical obstacle: getting hold of words a physician could read and examine.
 
-Add. The algebra diagram helps another reader see why a rule works.
 
-Pass on. A donor makes a book available to learners. Each step needs somebody’s care.
+A medical book finds Arabic readers
 
-Let’s put three of those places on the map before opening the first book.
+A physician opening an old medical book wants more than an impressive author’s name. The words must make sense, the account must be usable, and there must be a way of checking what the author meant. Those needs helped create work for translators in ninth-century Baghdad.
 
+The page before us is a later result of Arabic readers’ long engagement with Greek medicine. It was made in one thousand two hundred and twenty-four, several centuries after the translators we are about to meet. The Met calls it Physician Preparing an Elixir and cautiously places it in Iraq or northern Jazira, possibly Baghdad. Look at the seated figure working beside the vessels, with Arabic writing above and below him.
 
-Three places where knowledge changed
+Here is a much earlier Greek manuscript of Dioscorides, now in Vienna. Its picture brings together the author, a painter and a plant. These are different scenes from different manuscripts. We are seeing two illustrated witnesses to the life of a medical tradition across centuries. They do not let us measure how one particular passage changed in translation.
 
-Here are three places to keep in mind. The first is Baghdad. There, translators compared copies of medical books and worked out how to explain them in Arabic.
+Return to the Arabic page. To produce a book like this, several kinds of expertise had to meet. Someone needed access to a text, someone had to understand its language and medical vocabulary, and copyists and illustrators had to make a new volume. Readers and patrons gave that work a purpose.
 
-In Cairo, Ibn al-Haytham used a dark room to find out what light does. You will see what he changed and what he could measure.
+The translation records let us name some of the people behind that process. Istifan ibn Basil translated Dioscorides, and Hunayn ibn Ishaq revised his work. Both belonged to Christian communities. Their work entered an Arabic medical culture sustained by patrons and practitioners, including Muslims. Syriac, a language used by many Christians of the region, was also an important language of medical study and translation.
 
-In Toledo, Arabic works found readers who studied in Latin. We'll see astronomy and medicine turn into material a teacher could explain in class.
+So the scene is larger than a book moving from Greek into Arabic. Expertise could cross religious boundaries because people needed one another’s skills. Yet finding a person able to translate was only the beginning. The copy available to that translator might be damaged, incomplete, or simply absent.
 
-Follow the first stop to Baghdad. A page about a plant will show us what a translator had to decide.
+Hunayn’s own account takes us into that difficulty: he went looking for a famous work and found scattered pieces.
 
 
-A city that drew books and translators
+Hunayn searches for a missing argument
 
-Our first verb is receive. And our first stop is Baghdad.
+The page on the screen comes from a later copy of Hunayn’s work on the eye. It belongs to the world of a physician who was also a teacher and author. For the search we are following, however, our evidence is his letter about translations of Galen. There he tells us which books he could find and what condition they were in.
 
-An illustration shows people preparing a medicine from honey beneath two trees. Their gestures help a reader follow the work.
+One he wanted was On Demonstration, a work about proof. Galen was a medical authority, but this title concerned how an argument could establish its conclusion. Even a famous author’s work could be difficult to obtain. Hunayn says that another scholar had already searched hard for a complete Greek manuscript. He undertook a search himself.
 
-In the Greek copy made around five hundred and twelve, the woman holds the mandrake while a painter depicts it and Dioscorides writes. The Baghdad page from one thousand two hundred and twenty-four illustrates another passage by showing the work of preparing a medicine from honey. Both are later copies of a work first written in Greek in the first century.
+Northern Mesopotamia, Syria, Palestine, Egypt, as far as Alexandria: that is the range he names. In Damascus he found about half the work. The parts were incomplete and did not run in sequence. Travelling farther had not put the whole argument into his hands.
 
-The Arabic title, Kitab al-Hasha'ish, means Book of Herbs. The Latin title names the subject as materials of medicine. How did a Greek work acquire new readers and illustrations in Baghdad?
+Picture the reading problem, rather than the distance alone. A surviving section may refer to a proof in an earlier section that is missing. Another may begin after the step which would explain how the author got there. Knowing the language cannot restore those absent connections. A translator has to decide how much can responsibly be made available.
 
-In the early Abbasid centuries, Baghdad became a major centre for translation into Arabic. Greek medicine and mathematics circulated alongside Persian astronomical traditions and Indian methods of calculation. Patrons included caliphs and other members of their courts. People who could read and write across languages came from different religious communities. Greek material could be translated through Syriac or compared with Syriac while being prepared for Arabic readers.
+Hunayn describes his reluctance to translate before he had read the whole work. He also records translating portions into Syriac, identifying parts and gaps. His account allows us to see both the wish for completeness and the decision to work with what he could recover. He did not turn the search into a story in which persistence automatically brings back everything.
 
-Imagine you are making this medicine from written instructions. You need to know which substance a word names and what the person making the medicine is meant to do with it. The translation has to give a reader enough to act. A picture can make one action easier to recognize, and the words can explain details that the picture leaves open.
+That result changes how we understand receiving knowledge. The inheritance was already uneven. Some works survived more fully than others; some readers had access to material that another reader lacked. The translator helped determine what the next community could study, while remaining dependent on copies he might never locate.
 
-The Muslim philosopher al-Kindi urged readers to welcome a true insight wherever it came from, even if the person who found it lived far away and spoke another language. Here we can see what that attitude asked of people in practice. Someone sought the work, someone supported the translation, and a copyist and illustrator made the result available to new readers.
+His list of what he found is useful precisely because it leaves the gaps visible. A later scholar can distinguish his recovery from the complete work he had hoped to read. That is a form of generosity too: another person receives the evidence needed to judge the limits of your achievement.
 
-When we look at this page, those hands matter as much as the journey on the map. A reader could study an account made available through the work of people from different times and places.
+Missing pages were one obstacle. In a different book by Galen, Hunayn faced a harder personal task: returning to a translation he himself had made twenty years earlier.
 
-These folios show what later readers received. To see what it could take to find a text, let’s follow one physician’s search for a book by Galen.
 
+Hunayn returns to his own translation
 
-The man who travelled for half a book
+Hunayn had been about twenty, or a little older, when he translated On Sects into Syriac for a physician. This was an introduction to different schools of medical thought. He worked from a single Greek manuscript, which he later described as very faulty.
 
-The physician was Hunayn ibn Ishaq. He was a Christian doctor and one of the major translators of the ninth century. A later copy of his Ten Treatises on the Eye includes an anatomical diagram with lines connecting parts of the eye to their names.
+At about forty, he received a request from his pupil Hubaysh: correct the translation. By then several Greek copies had come into his possession. The request brought his younger work back to his desk, with more experience and better evidence available.
 
-A teacher could use a diagram to give a student a place to look while explaining a part of the eye. The drawing and the explanation do related work. In this case we can also ask how the books that a physician learned from came into his hands.
+There is a real choice here. He could start polishing the Syriac wording, making difficult sentences clearer. Or he could return to the Greek and ask whether his first source had given him the right text to translate. Where would you begin: Greek or Syriac? Choose one, and think of a reason.
 
-Hunayn describes his search for Galen’s On Demonstration in a letter.
+He began with the Greek manuscripts. He compared them and established a revised Greek text; then he checked the Syriac against it and corrected the translation. The order matters. A problem in a translation can begin before the translator has chosen a single word. If the manuscript leaves something out, a smooth translation may simply make the omission harder to notice.
 
-He tells us that he searched in northern Mesopotamia, Syria, Palestine and Egypt as far as Alexandria. Listen to that list as a search for several pieces of information. Where had a copy been seen? Who could let him examine it? Was the piece he found the part he needed?
+Imagine a sentence whose last clause has dropped out in one copy but survives in another. This is an illustration of the problem, rather than a surviving example from this passage. Reading the second copy could change your understanding of the first. Only after that comparison would you be ready to judge whether your Syriac sentence expressed the argument. Checking the source and checking your interpretation are related jobs, but each needs attention.
 
-Suppose you have completed that search. How much of the work would you expect to have in your hands?
+The photograph beside the sequence shows a surviving Syriac translation of another Galen work, On Simple Drugs, recovered beneath later writing by special imaging. It gives us a glimpse of the material life of Syriac medicine. Our account of the revision of On Sects comes from Hunayn’s letter. Keeping those two pieces of evidence distinct lets each tell its own story.
 
-In Damascus he found about half the book in fragments. He recorded that the sections were incomplete and out of sequence. That helps a later reader judge exactly how much he had recovered. Think of a reader asking a question that the missing half might have answered. A report that says where the material runs out gives the next reader a clearer place to resume the search.
+A few years after revising the Syriac, Hunayn translated it into Arabic for Muhammad ibn Musa. Now an Arabic reader could encounter wording shaped by a Greek author, several Greek copies, a Christian translator, a pupil’s request and a patron’s support. Syriac was part of the work that made the Arabic version possible.
 
-We also learn something from who did the work. A Christian physician could work for Muslim patrons in Baghdad. A later reader could learn from his scholarship because people with different languages, backgrounds and resources made a place for that work. Naming the people who sustained it shows how a text reached the next reader.
+Notice where the movement has led. A new community gained access to a text, and the process of preparing that text also produced a more carefully examined version. Hunayn’s own earlier work became open to correction. His authority rested partly on being able to explain what he had checked.
 
-Put al-Kindi’s ideal beside Hunayn’s account. The wish to learn from someone far away had to become a search for particular words on particular pages.
+We do not have to imagine him pleased or embarrassed when the request arrived. The choice he records is enough: he returned to the sources, revised what needed revising, and told others how he had done it. That is the kind of trust we can examine.
 
-The map tells us where Hunayn looked. His notes tell us how much he found. For another book, he left a record of what he did when copies disagreed.
+A corrected translation still had to become a book someone could obtain. The next part of this Baghdad story belongs to the people who made and supplied books.
 
 
-How Hunayn repaired a translation
+A translation needs a book
 
-Hunayn tells us how he revised his translation of a different work by Galen, a short introduction to schools of medical thought called On Sects. At about twenty, he translated it from Greek into Syriac for a physician. He had just one Greek manuscript and later described it as faulty. About twenty years later, his pupil Hubaysh asked him to look at the translation again. By then, Hunayn had several more Greek copies to work with.
+The scholar’s revised words were only part of the cost of a manuscript. Someone also needed a writing surface, ink, time and trained hands. These two Qur’an folios, copied centuries apart, show parchment made from animal skin and paper made from fibres. A book trade depended on turning such materials into dependable supplies.
 
-The writing in this photograph includes the Syriac translation of another Galen work, On Simple Drugs. The colors come from processing images made under different kinds of light. They help us distinguish the older medical text from writing added when the leaves were reused. This surviving page shows how much work it can take to read a text that travelled in Syriac.
+A scribe prepared a reed pen and set out the page. The penknife renewed the writing edge; the page needed room for text, headings and perhaps a later reader’s notes. Then separate leaves had to become a volume that would survive use.
 
-Back to On Sects. Suppose Hunayn finds a mistake in the version he made at twenty. Where should he look first? Would you open his Syriac translation or go back to the Greek copies? Consider whether you would begin with the Greek copies or the Syriac translation.
+Here the folded sheets form gatherings. Sewing joins them, and a cover protects the whole. The bound book had an ancient history; Islamic workshops adapted its materials and construction. Each stage required skill, and each contributed to what a reader could finally hold.
 
-Hunayn went back to the Greek. He compared what the copies said and used them to establish a revised Greek text. Then he corrected his Syriac translation against that text. A difficult sentence might have come from his first Greek copy. He could also have misunderstood a good Greek sentence. Working in this order helped him tell those possibilities apart.
+Qalam carries Greek kalamos, a reed; ream carries Arabic rizma, a bundle.
 
-He also made an Arabic rendering for Muhammad ibn Musa. A decision he made about the Greek could reach a physician reading in Arabic years later. We can follow the decision because Hunayn wrote down how he worked. His letter gives us the name of the book, the state of his first copy and the steps he took with more evidence.
+A reader also needed a way to discover which books existed and where to look for them. In tenth-century Baghdad, that was part of a bookseller’s world.
 
-This is one way to test what has reached us. When a copy or translation seems difficult, check what the source actually says, and keep a record of what you used to decide.
 
-Hunayn checked his translation against other copies. Ibn al-Haytham gives us a different way to check a claim. We can set up an experiment and see where the light goes.
+The bookseller’s map of knowledge
 
+Ibn al-Nadim worked as a warraq, a trade connecting books, paper and copying. Around nine hundred and eighty-seven or nine hundred and eighty-eight he compiled the Fihrist, a remarkable account of books known to him in Baghdad. It includes religious writing, poetry, philosophy, mathematics and medicine. Finding out that a work existed could be the first step towards asking after a copy.
 
-Why does the world turn upside down?
+His catalogue also discusses the material carrying those works. The photographed page is from an edition printed in one thousand eight hundred and seventy-one, preserving his much earlier account.
 
-We have checked the wording of a translated book. Now imagine checking a claim about the world itself. A photograph of a dark studio shows a building projected onto an interior wall, with blue sky beneath it. The outdoor view has arrived upside down.
+Al-waraq al-sini: Chinese paper. In this passage he connects papermaking in Khurasan with Chinese production. Elsewhere in the paragraph, names associated with patrons and regions point to a varied paper trade. The vocabulary preserves connections that a sheet alone might not announce.
 
-This room was built at Brown University in two thousand twenty-three. The organizers covered a window and fitted a lens into one opening. The lens gathers the light to make the image brighter. The room itself becomes an optical instrument. Only a little daylight enters through the opening.
+The bookseller’s knowledge and the papermaker’s skill met in the same economy. Manuscripts needed both someone to supply their material and someone who knew what readers were looking for.
 
-Ibn al-Haytham worked with dark chambers in eleventh-century Cairo. His Book of Optics explained vision in terms of light coming from objects into the eye. The dark chamber allowed him to investigate the paths that light follows. In one arrangement, several lamps cast separate patches of light. Covering a lamp removed its patch, making individual paths available for comparison. A small hole alone can produce an image. Let’s use that simpler arrangement to follow its geometry.
+That Chinese connection opens the map beyond Baghdad. Following paper shows how widely the material supporting these books travelled.
 
-The upper point on the object is gold. The lower point is green. Imagine a ray of light from the upper, gold point passing through the opening. Will it reach the upper or lower part of the projection surface?
 
-The ray from the gold point passes through the opening. It keeps travelling downward and reaches the lower part of the screen. The green line reaches the upper part. Now imagine moving the projection surface farther away while leaving the object and opening fixed.
+Paper travelled through a network
 
-The image grows because the screen meets the same rays farther apart. The Arabic phrase al-bayt al-muzlim means dark chamber. The later Latin name camera obscura also means dark room. Photography eventually shortened that name to camera.
+Hunayn’s improved translation depended on access to more copies. The supply of writing materials affected how many new copies could be made. Paper belongs inside this story of intellectual work.
 
-A picture gives us something to observe. How do we turn that observation into a test someone else can check?
+Manufacture began in China, and paper travelled through Asian networks before Islamic rule. By around eight hundred it was being made in Baghdad, meeting demand from administration, scholarship and the book trade.
 
+The dates identify evidence from different places. The lines connect them schematically. A merchant could carry sheets; establishing a workshop also required trained people, suitable fibres and water.
 
-What makes the picture appear?
+The network reaches European printing and an English mill, but it also extends east. Our Kashmir photograph records workers preparing a writing surface in nineteen seventeen. That dates the photograph, rather than the craft’s arrival.
 
-We have seen a picture appear inside a dark room. Now ask one question. Does that picture need the light coming through the opening? Keep the room and outside scene the same. Change only whether the opening is clear.
+Remember the return arrow: later, a Qur’an written on European paper will bring us back to it. We now have texts that can be found, compared and copied. What can scholars do with the knowledge they inherit?
 
-Imagine performing the test in the same room. Predict what happens when the opening is covered.
-
-The projected picture disappears.
-
-It returns when light can enter again.
-
-Ibn al-Haytham described related physical tests with lamps. Covering one lamp removed its corresponding light spot. The other spots remained. Removing the cover brought its spot back. He could connect a particular source to a particular result.
-
-That is the reasoning we are following. Ask a question, make one controlled change and use the observed result to explain what happens.
-
-An artist can use that same geometry to decide where a point belongs on a flat drawing.
-
-
-From a projected image to a constructed picture
-
-Durer’s woodcut shows a string. It runs from a fixed point to the lute and passes through a frame. Where it crosses the frame gives a point in the drawing.
-
-The frame acts as a drawing plane. Each point of the object has a line back to the same viewpoint. Marking those intersections one by one produces the outline of the object.
-
-Latin perspectiva meant the study of vision. Renaissance artists developed procedures for constructing pictures, while optical books supplied geometrical accounts of sight.
-
-In the dark chamber, light continues through an opening and forms an inverted image on a surface. In Durer’s construction, the artist marks intersections on a plane between viewpoint and object.
-
-Leonardo’s study of how distant objects appear also has specific links to Ibn al-Haytham’s account of vision through air.
-
-Let’s follow the readers who kept those optical arguments available, and the new questions they brought to them.
-
-
-How does the eye make a picture?
-
-Think of the dark room. Light enters at the front, and a surface receives a picture inside. An eye also admits light. Where does its picture form?
-
-In eleventh-century Cairo, Ibn al-Haytham developed an account of sight based on light entering the eye from objects. His Arabic Book of Optics became available to Latin readers as De aspectibus.
-
-Bacon read that Latin work and used geometry to investigate sight. Other readers, including Pecham and Witelo, reworked optical arguments for their own audiences.
-
-Kepler later addressed Witelo’s optics. In one thousand six hundred and four he explained how the eye forms a real, upside-down picture on the retina. The retina is the light-sensitive layer lining the back of the eye. It receives the image.
-
-The inherited question had received a new answer.
-
-We have followed an explanation across languages. Now let’s follow a mathematical problem from Baghdad into new teaching.
+In Baghdad, al-Khwarizmi showed a learner why a procedure worked. We will follow one of his arguments together.
 
 
 Algebra: turn an instruction into a reason
 
-We have watched people use light and geometry to explain vision. In Baghdad, al-Khwarizmi used geometry to explain a rule for finding an unknown number. His problem says, “A square and ten roots make thirty-nine.” Imagine a square garden whose side we do not yet know. The square’s area is the side multiplied by itself. Ten roots means ten copies of that side. We show his words in modern symbols, x squared plus ten x equals thirty-nine. His book explained the work in words. Notice that the problem begins with relationships between quantities. Once we recognize those relationships, the same procedure can be used with different numbers. Al-Khwarizmi’s preface mentions practical needs such as dividing an inheritance, trade, and measuring land. A reader could connect these procedures to decisions that affected property and everyday work. Explaining why the procedure worked made it easier for a teacher to pass it on.
+Books and materials made sustained work possible. What could an author do with that opportunity? Al-Khwarizmi, writing in ninth-century Baghdad, faced a problem familiar to anyone who has taught a calculation: a learner can repeat the instruction without seeing why it works. His algebra gives rules and then supplies geometrical reasons.
 
-Suppose the unknown side is x. We can split ten x into five x and another five x. Each strip has the same length as the side of the square and a width of five. We have rearranged the same total area. Nothing has been added yet.
+He introduces the work as useful for practical matters, including inheritance, trade and measuring land. Different problems could share a mathematical form. Recognizing that form meant that each new case did not have to begin again from nothing. Let us stay with one example long enough to understand the argument.
 
-Put one strip on the right and the other below the original square. Together the pieces nearly make a larger square. What is missing? Follow the lower edge of the right strip. The empty corner is five across and five down. Its area must be twenty-five.
+His words describe a square and ten roots making thirty-nine. Here, root means the unknown side of the square. We show it in modern symbols as x squared plus ten x equals thirty-nine. His exposition uses words, so the symbols and moving pieces on this screen are our teaching model. The reasoning follows his geometric explanation.
 
-Add that corner to the picture. To keep the equation true, add twenty-five to the thirty-nine on the other side. The completed square now has an area of sixty-four. What number multiplied by itself gives sixty-four?
+The first area is x multiplied by x. Beside it we have ten copies of x. We want to find the side, but it is difficult to recognize the answer while the areas sit in this form. Try rearranging the ten copies without changing their total.
 
-Eight. The whole side is eight, including the added width of five. The original side is therefore three. We can check the answer against the original words. Three squared is nine. Ten times three is thirty. Together they make thirty-nine.
+We split ten x into two strips, each five by x, and place one beside the square and one below it. The original area is still thirty-nine. The pieces almost make a larger square. Their shape now exposes a missing corner: it is five across and five down. Work out its area, and think about what we must do to the other side of the equality if we fill it.
 
-The Arabic manuscript preserves the explanation. The word al-jabr in the title travelled into Latin and later English as algebra. The Latin arithmetic manuscript carries the author’s name as Algorizmi. It eventually gave us algorithm. A title and a person’s name travelled with procedures readers could use.
+The corner has area twenty-five. Adding it to the picture means adding twenty-five to thirty-nine as well. That gives sixty-four. We now know the area of a complete square, so its whole side is eight. But eight includes the strip of width five that we added. The unknown original side must be three.
 
-We have used a drawing to make a calculation understandable. An astrolabe puts a different kind of mathematical drawing onto brass and makes it movable.
+Three squared is nine, and ten threes make thirty: together, thirty-nine. The check returns us to the original problem. We can also explain why the procedure worked. Halving ten gave the width of the strips; squaring five supplied the corner; taking the square root gave the larger side. Every instruction has acquired a place in the drawing. This is also why the corner matters so much. If we add it in the picture and forget to change thirty-nine, we have quietly solved a different problem. The drawing makes that mistake visible. Preserving equality is the thread that connects the rearrangement, the added corner and the final check. It lets someone else inspect our reasoning.
 
+This later Arabic copy preserves diagrams alongside the written argument. The Latin arithmetic witness represents another work associated with al-Khwarizmi, concerning reckoning. One book’s title gives us algebra; the author’s name, travelling through Latin arithmetic, gives us algorithm. Those two word histories belong together without making the two books the same work.
 
-The sky in your hand
+The achievement here is a way of organizing and justifying mathematical procedures that others could study, teach and extend. We have experienced one small part of that work ourselves.
 
-Suppose you need to tell the time outdoors and you can pick out a star. With an astrolabe and a clear sky, a trained observer could use the star's height to work out the hour. In some cities, such timekeeping also helped people determine prayer times. This instrument was made in Toledo in the Islamic year four hundred and twenty, which overlaps one thousand twenty-nine and one thousand thirty. The open brass layer carries little tips that point to stars. Turn that layer and the stars move together, as they appear to over the course of a night.
+Another community needed mathematics for a different daily task: calculating in the busy trading towns of the Mediterranean.
 
-Under the star map is a plate made for an observer at a particular latitude. The pale curves on the model are a way of mapping positions in the local sky. Travel north from Baghdad to Istanbul and the North Star appears higher. The same brass star map can still be used. You change the engraved plate underneath. To use it, aim the sighting arm at the star and read its height from the rim. On the front, turn the star pointer until it crosses a curve at that height. The dial then helps you read the time.
 
-Consider four star names: Deneb, Altair, Vega and Arcturus. Three passed through Arabic. Which one came from Greek?
+From Bejaia to a merchant’s classroom
 
-Arcturus comes from Greek. Deneb carries the Arabic word for a tail. Altair preserves “the flying,” from a name for a flying eagle or vulture. Vega preserves “the falling,” from a name for a falling eagle or vulture. Reading the names brings us a little closer to how people found their way around the same sky.
+Fibonacci tells us that his father, a Pisan official working with merchants in Bejaia, brought him there as a boy to learn calculation. Bejaia is on the coast of present-day Algeria. A trading connection became an educational opportunity, and a young learner encountered the Indian numeral system in the Arabic-speaking Mediterranean.
 
-Let’s see exactly how the brass pieces fit together so the stars can turn and the plate can be changed.
+In the prologue to his Liber abbaci, Fibonacci describes that education and his later study of different methods. He chose to explain Indian reckoning to Latin readers. The book first appeared in one thousand two hundred and two and was revised in one thousand two hundred and twenty-eight. He presents it as work he has examined, corrected and arranged to make learning easier. That should sound familiar after Hunayn’s return to an earlier translation.
 
+Look at the numerals in this later manuscript. Their power depends on position. In twenty-five, the two stands for two tens. In two hundred and five, it stands for two hundreds; the zero holds the empty tens place. In Fibonacci’s Latin, its name appears as zephirum, connected with Arabic sifr. A new learner needed to acquire the meaning of the positions, as well as the shapes of the signs.
 
-Take an astrolabe apart
+Over later centuries, Italian abbaco teachers addressed the needs of merchants and artisans in local languages. Their pupils practised prices, currency, measures and the division of profits. Learning meant repeated work on problems which resembled the decisions they would face in business. Fibonacci’s Latin book and these local classrooms belong to a broader history of mathematical teaching; one famous book alone cannot explain that whole development.
 
-A museum display in Dresden separates the pieces of an astrolabe. A central pin runs through those layers.
+Our short cloth problem illustrates proportional reckoning. The printed book beside it, produced at Treviso in one thousand four hundred and seventy-eight, teaches commercial arithmetic. A new medium could now carry this practical instruction. The calculation on the screen is a modern example of that kind of lesson.
 
-At the back is the case, or mater. The Latin word means mother, matching Arabic umm. It holds the layers and has a scale around the rim. The solid plates are called safa'ih. They carry engraved curves, like the plate of the Toledo instrument. These curves represent positions in the local sky. That is the part that can be exchanged when you move far enough north or south.
+Here the new community changed the language, examples and setting of mathematical education. People learned inherited methods by putting them to work in their own circumstances.
 
-The open brass piece in front is the rete, the Latin word for net. One Arabic name, ankabut, means spider. The pin is called qutb. It holds the stack together while the net turns. That means the star map can move while the local horizon stays fixed, just as the real night sky appears to turn. On many astrolabes, the other side has an arm you can aim towards a star. The word alidade carries the Arabic name, al-idada.
+A numerical rule can be made understandable through its reason. A claim about the visible world asks for another kind of evidence: what happens when we test it with light?
 
-A new observer could change a plate. Our next instrument shows something else a new observer could change: the writing on the brass.
 
+How can light turn a scene upside down?
 
-One instrument, new readers
+Imagine a strangely decorated bedroom. The bed is where we expect it to be, and the air conditioner is still attached to the wall. But the building beyond the bed has turned upside down. Its roof lies below its windows, and the branches above it are the tops of outdoor trees pointing towards the floor. These are not pictures hung on the wall. They are light arriving from the scene outside.
 
-The same instrument could reach someone who read a different language. The Verona astrolabe gives us a concrete example. Imagine holding this brass instrument and looking closely at the writing on one of its circular plates.
+The photograph records a modern pinhole demonstration. Most of the daylight has been shut out, leaving a small opening through which light reaches the wall. What makes this useful to us is the contrast between the ordinary room and the extraordinary position of the projected scene. We can separate the thing receiving the image from the thing represented in it.
 
-Its maker worked in al-Andalus in the eleventh century. The original engraving is Arabic. Among its labels are the names of cities, so a user can find the plate suited to their location. The instrument also has lines connected with Muslim prayer times.
+Brown University created a much larger version in a studio in two thousand twenty-three. Here the repeated vertical lines of the building can fool us: they look quite similar either way up. Instead, follow the blue sky below the facade and the little outdoor trees projected at the right. Those details reveal the inversion. Brown’s team fitted a lens into a covered window to make the image brighter. It is a modern demonstration of a physical effect that we can investigate with a much smaller opening.
 
-The name here is Cordoba. A reader familiar with Arabic could recognize the city and use the label to find the relevant setting. Another person added a second way to identify the city.
+In eleventh-century Cairo, Ibn al-Haytham used dark spaces and openings to investigate how light behaves. His Arabic expression, al-bayt al-muzlim, means a dark room. The Latin words camera obscura have the same meaning; camera later became the familiar name of the photographic instrument. The modern photographs help us see the effect, while his writing gives us a particular set of questions and tests.
 
-The scratches are much lighter than the original engraving. Historian Federica Gigante reads this word as Cordoba written in Hebrew. The plate still carries its Arabic label, and now it also has a label for someone who reads Hebrew. The user has made an existing instrument easier to read.
+Follow light from the top of the object. It continues through the opening and reaches the lower part of the screen. Light from the bottom reaches the upper part. The opening is where these paths cross, so the positions reverse. Moving the screen farther back spreads the same paths farther apart, making the image larger in this model. Each outdoor point sends light in many directions, but the small opening admits only a narrow selection. On the receiving wall, the points therefore keep a spatial relationship that we can recognise. The room gives us a way to make that relationship visible, before we try to explain the much less accessible structures inside an eye. An apparently surprising picture has become something we can explain point by point.
 
-There are also lightly scratched Western numerals. Here we can make out thirty-six. Gigante thinks these additions were probably made for a reader of Latin or Italian. The exact dates of the later marks are unknown. The Arabic engraving came first, and subsequent readers added writing they could recognize.
+The crossing creates another problem: when light from several sources meets in one opening, does each source keep a separate path? Ibn al-Haytham gives us a test for that.
 
-We can follow the object through these additions even when the people themselves remain unnamed. The same piece of brass carried a useful way of representing the sky into new settings.
 
-A new label could help a person read an instrument. In Oxford, Chaucer tackled the same problem by writing its instructions in the learner’s own language.
+Three lamps, one opening
 
+The drawing looks down on the arrangement. Several lamps stand outside a dark chamber in a row parallel to its door. A small opening admits their light, and a wall opposite receives separate bright spots. Ibn al-Haytham describes this arrangement in the first book of his Optics. We show three lamps so that each path is easy to follow. The colours and letters belong to our teaching diagram.
 
-Chaucer teaches the astrolabe in English
+Lamp A is on one side of the opening; its spot appears on the other side of the receiving wall. Before I screen that lamp, decide which spot should disappear. The opening itself will stay clear.
 
-You may know Geoffrey Chaucer from the Canterbury Tales. Around one thousand three hundred and ninety-one he also wrote instructions for a young reader named Lowys. The prologue says the boy has an astrolabe set up for the latitude of Oxford. That detail should sound familiar after the plate we looked at in Verona.
+Only spot three disappears. The other two remain. When I remove the screen, the missing spot returns. We can try a different lamp and check the same relationship again.
 
-Chaucer wrote in Middle English. Some of the Latin material he used had travelled through Arabic. His prologue promises a lesson in plain words. Lowys can learn the language of the instrument by using it, as he might learn to find the letters on a compass. Chaucer begins by showing the reader what the pieces are called. Then he puts them to work. One lesson shows how to tell the time using the height of the Sun. It matters that the learner understands which piece turns and which scale to read.
+That result does more than tell us that a dark room needs light. It connects a particular place on the wall with a particular source outside. The paths meet at the opening, yet the light continues to distinct destinations. Screening one source leaves the others available for comparison.
 
-An illustration in a later edition shows the name Aldebaran on the rotating star map. The name comes from Arabic al-Dabaran, “the follower.” The bright star appears to follow the Pleiades across the sky. What travels with an instrument might be a whole set of instructions, or one word that still lets us find the same star.
+This is an example of Ibn al-Haytham joining an arranged observation to a geometrical explanation. The apparatus lets another person check the claim rather than simply accept the author’s authority.
 
-An astrolabe can help a person work out the time. What would it take for a machine to announce the time by itself?
+Once light can be followed from an object to a receiving surface, the next difficult question lies inside us: what receives it in the eye?
 
 
-How the elephant clock keeps time
+A new answer inside the eye
 
-Imagine hearing the time before you look up. A ball strikes a cymbal, a dragon turns and the figures on top of an elephant begin to move. That is what al-Jazari's elephant clock was designed to do. Al-Jazari described it in a book completed in one thousand two hundred and six at the Artuqid court. A manuscript copied in one thousand three hundred and fifteen depicts the clock’s exterior. Its written instructions explain the mechanism inside.
+These three pages bring the human work back into view. The Arabic manuscript on the left contains a diagram of two eyes and the nerves leading away from them. The Latin manuscript in the middle belongs to Roger Bacon’s Perspectiva. At the right is the title page of a book Kepler published in one thousand six hundred and four. Between them lies a continuing problem: how can light arriving from many points outside give us an ordered view of the world?
 
-Imagine a bowl floating in water inside the elephant's body. A little water enters through a hole in its base. As the bowl gets heavier, it sits lower. The rate at which it fills gives the clock its interval. What happens if that opening is made bigger?
+Ibn al-Haytham argued that light comes from objects into the eye. That changed what an explanation of sight had to do. It had to connect the geometry of incoming light with the body’s receiving structures. His account still gave the crystalline humour, in the front part of the eye, a central role in sensation. The modern diagram below the books shows Kepler’s later answer, so we should keep the two accounts distinct.
 
-A wider opening lets the bowl fill faster, so it triggers the strike earlier. Al-Jazari aimed for a bowl that would fill in about half an hour. In a workshop that takes repeated testing. If it sinks too early every cycle, the error accumulates. By lunchtime you hear an announcement for a time you have yet to reach. A maker could compare one cycle against a reference, adjust the opening, and check it again.
+The Arabic Book of Optics became available in Latin as De aspectibus. Bacon studied it in the thirteenth century, working with its geometrical treatment of sight. His manuscript is useful evidence of what serious reception involved: text and diagrams had to work together. A reader needed to understand what each line represented, and how the diagram supported the explanation. Copying the words was only part of that task.
 
-As the full bowl sinks it tugs a line and releases a ball up above. The ball rolls towards the dragon, which pivots. As the dragon tips, the ball drops to strike a cymbal. The dragon's motion also helps lift and tip the bowl so the water inside spills out. The bowl floats again and the next half-hour begins.
+Kepler entered an optical tradition that also included Witelo. His title explicitly names that earlier author. In one thousand six hundred and four he explained how the eye’s refracting structures form a picture on the retina, the light-sensitive surface at the back. Light from the top of an object reaches the bottom of that picture, much as it did on our room’s wall. Explaining this image still leaves the further question of how we perceive what we see.
 
-Leonardo da Vinci also sketched water-clock components some three centuries later. The Royal Collection identifies water-clock components in those drawings, though the exact arrangement is uncertain. Lay the two images side by side in your mind. Each maker had to consider how the movement of water could give a reliable interval. Al-Jazari also shows a reader how a sequence of small motions can turn it into a public signal.
+Across these pages, receiving a powerful explanation also meant finding places where it could be developed or changed. The history matters because the questions remained open to further work. We can recognise a contribution precisely by asking what problem its author inherited, which answer he accepted, and where his own explanation took a different course.
 
-If you were asked to repair the clock, the picture would tell you where to look. The written sequence would tell you which motion you expected to see next.
+An experiment asks whether an explanation survives a test; an engineer also needs a mechanism to work again and again. We now return to one thousand two hundred and six and a different workshop problem: al-Jazari’s clock must complete one action and prepare its next cycle.
 
-We can recover the sequence because someone described the parts and someone kept copying the book. Let's look at the sheet that made that possible.
 
+Design a cycle that begins again
 
-From sheet to book
+A clock that announces one interval has only begun its work. To announce the next, it must return its moving parts to a usable starting position. That is the problem hidden inside this painted elephant. Al-Jazari described the clock in his book of ingenious devices, completed in one thousand two hundred and six while he served the Artuqid court. The page we can enlarge is a real manuscript copy made in one thousand three hundred and fifteen.
 
-These Qur’an pages were made centuries apart. One was written on parchment, prepared from animal skin. Another was written on paper, formed from fibres. Either surface can carry a sacred text. The scribe also chooses the size of the page, the spacing and the script.
+Inside the elephant’s body, a bowl floats in water. A small hole admits water, and the filling bowl gradually sinks. Its movement draws a line that helps release a ball above. The ball’s weight turns a dragon-shaped mechanism, setting other actions in motion. In the full design, linked figures and sounds announce the interval, while the bowl is lifted, emptied and prepared to float again.
 
-Here are real Ottoman tools, made centuries after the medieval pen box. The knife renews a reed pen’s writing edge. The cutting slab steadies it, and the scissors trim paper. These objects help us picture the scribe’s work. The word qalam preserves Greek kalamos, meaning reed.
+Our cutaway condenses that sequence so that the timing device and the return movement are easy to see. The intended interval is half an hour. The alternative times shown for larger and smaller openings are teaching comparisons: they illustrate why admitting water faster changes the cycle. They are not measurements recovered from this manuscript.
 
-The bound format, or codex, had developed in antiquity. Muslim makers inherited a form already used in the Mediterranean world. Their workshops developed its use with paper, distinctive bindings, carefully designed pages and the trades needed to circulate books. Folded leaves form gatherings. Thread joins the gatherings. A cover protects them. Many Islamic bindings add a flap that closes over the exposed edge.
+Imagine having to make the machine work for a whole afternoon. A bowl that sinks too soon advances every announcement. A line that catches may stop the next ball from falling. A bowl that rises without emptying cannot begin the same interval again. These are practical consequences of the design, and each gives a maker something specific to check.
 
-A reader can open that book at a chosen passage, compare two pages and add a note in a margin. Its physical arrangement supports the work of study. The same volume can pass through several generations of teachers and learners.
+What the book passes on is therefore more than an attractive silhouette. It makes a sequence of dependencies available to another builder: this motion must happen before that one, and the end must prepare the beginning. A successful description helps the next maker diagnose a failure as well as reproduce a working sequence.
 
-A ream comes ultimately from Arabic rizma, a bundle. Today we count sheets ready for a printer. A manuscript workshop also needed a dependable supply.
-
-We have seen how sheets become a book. Let’s go back one step and watch the sheet itself take shape.
-
-
-From fibres to a writing sheet
-
-These photographs show actual materials, workers and equipment. The opening image shows prepared rag stocks at a French mill in two thousand nineteen. Linen and hemp supplied useful fibres in many Islamic papermaking workshops. Washing, soaking and beating loosen the threads of worn cloth.
-
-Wooden stampers are one way to break cloth apart. The next photograph shows the fibres suspended in water. A papermaker stirs the vat to keep them dispersed, then lowers a mould into it. The screen catches the fibres as water passes through.
-
-Notice how the worker holds the frame level. The hands control how the pulp spreads. That takes practice, particularly if the next customer wants many sheets of the same size and weight. The photographs document European museum practice today, while the underlying operations let us understand earlier accounts.
-
-A press drives out more water. Afterwards, sheets are separated and dried. The photographed screw press is a physical museum reconstruction. Drying arrangements and equipment varied between workshops.
-
-Now we are in Kashmir in one thousand nine hundred and seventeen. One worker applies size, and another burnishes the sheet. Starch and polishing help prepare a smooth writing surface. Imagine copying a table of star positions where small figures must remain distinct.
-
-A sheet passes through several pairs of hands before a scribe writes on it. Its smoothness preserves the labour of the people who prepared it.
-
-A sheet has a quality, a cost and a reputation. A Baghdad bookseller can show us how people spoke about those differences.
-
-
-A market for books
-
-This passage comes from Ibn al-Nadim’s Fihrist, a catalogue compiled in tenth-century Baghdad. He worked as a warraq, in a trade connecting paper, copying and bookselling. Readers needed someone who could locate a work or arrange a copy.
-
-The paper name Jafari is traditionally associated with Jafar ibn Yahya al-Barmaki, the Abbasid vizier. Talhi, in the same list, is associated with Talha ibn Tahir, a ninth-century governor of Khurasan. These attributions connect names with patrons and regional reputation. They give us less detail about the ingredients in a sheet.
-
-The Chinese connection appears in the preceding sentence. Al-waraq al-sini means Chinese paper. The author compares making paper in Khurasan with Chinese production. We can point to the words in the historical source, while identifying any surviving sheet requires material evidence.
-
-These names place the page inside a society of skilled workers, traders, patrons and readers.
-
-This passage also shows how a written account preserves craft vocabulary after the individual workshops have disappeared.
-
-Paper names point to movement. A Qur’an copied centuries later lets us see that movement turn back towards Islamic lands.
-
-
-Paper travels in both directions
-
-A craft can cross a border and later return as a product for sale. This Qur’an, catalogue number five hundred and sixty-one in the Khalili Collection, was copied around one thousand three hundred and forty in Iraq or Iran on European paper. Scholars identify a double-key watermark topped by a cross. A photograph of a different watermark at a Berlin museum helps explain how such marks were made.
-
-A watermark is made in the sheet. A wire design leaves a thinner patch of fibres. Held against light, the pattern becomes visible. It can help a historian connect a sheet with a paper trade.
-
-Fabriano’s makers used water-powered stampers and sizing, and marked their products. Such workshops supplied scribes before presses began ordering sheets in larger quantities.
-
-This is a paper copy of Gutenberg’s Bible, printed around one thousand four hundred and fifty-five. Most copies used paper, and some used vellum. The printing workshop brought together type, ink, skilled labour, finance and an established supply of writing materials.
-
-The sheets support a new way of multiplying texts. A printer still needs buyers and distributors who can carry the finished books to readers.
-
-Let’s place those different uses on the map and follow the evidence as far as an English mill.
-
-
-How papermaking travelled west
-
-The dates beside the places mark surviving evidence or recorded production. Each arrow links evidence from a different time. Paper began in China. A Sogdian merchant’s letter, written around three hundred and thirteen and found near Dunhuang, was addressed to Samarqand. By around eight hundred, workshops were making paper in Abbasid Baghdad.
-
-Paper helped meet the needs of officials, scholars and book buyers. Those readers and their institutions also created demand. The famous story of captives teaching papermaking after Talas leaves the exact circumstances of transmission open.
-
-Egypt was making paper by the end of the ninth century. In the twelfth century, al-Idrisi described paper made in Muslim-ruled Xativa and sold abroad. Finished sheets could travel with merchants. Local manufacture also required trained people, materials and power.
-
-Italian mills supplied a growing trade. Administrative records, manuscript books and later printing all used paper. We have already seen a printed Bible emerge from that market.
-
-In one thousand four hundred and ninety-five an English book printed by Wynkyn de Worde credited John Tate for its paper. Tate ran a mill near Hertford. England had imported paper before this local production. A mill’s date tells us when one supply existed, while the growth of reading involved schools, languages, income and institutions as well.
-
-Tate needed clean water to power his machinery and suitable rags to feed it. The working mill depended on trade contacts as well as technical knowledge. Imported sheets continued to supply English printers alongside this brief local enterprise.
-
-So who paid to give a student books, time and a place to learn?
+Such work needs sustained support for skilled people. The next question concerns the arrangements that paid teachers and gave learners the time and place to continue their work.
 
 
 Who pays? Who teaches?
 
-This object looks like a piece of furniture. It’s a wooden stand made to hold a Qur’an. The inscription tells us that it was made in one thousand three hundred and sixty for endowment to a madrasa, a place of learning.
+Al-Jazari could explain his clock because he had time, materials and a patron who wanted the work written down. A learner who came later needed support too: a book within reach, somewhere to study, and a teacher able to recognize an error. Those needs connected scholarship with the economic and social life of a city.
 
-The Arabic word waqf means an endowment. Imagine a donor sets aside the income from a shop. If that income is assigned to a school, it can support a teacher or pay for books over many years. A different endowment might support a hospital or a fountain. The deed matters because it tells us what the donor wanted to provide and for whom. Both men and women established endowments.
+Here is a Qur’an stand made in one thousand three hundred and sixty for endowment to a madrasa. Its inscription records a gift intended to serve learning. The Arabic word waqf means an endowment. A donor could assign the income of a shop or an estate to pay a teacher, maintain a building or provide books. The gift’s continuing income mattered because studying took time, including time when the learner was earning little.
 
-An inscription like this gives us a date and a purpose. If you wanted to know who actually read a book that rested on the stand, what else would you look for? We might hope for a reader’s note, a list of a library’s holdings or a teacher’s record. The object lets us see how the gift was intended to be used. A reader’s trace could tell us about one occasion when somebody used it.
+This Ottoman diploma belongs to calligraphy. In one thousand seven hundred and ninety-one, Ali Ra'if Efendi wrote an authorization through which an approved learner could sign their own work. Ijazah means authorization; what it authorized depended on the subject and the relationship between teacher and learner. A calligraphy diploma and permission to transmit a particular book recognized different accomplishments.
 
-This is an Ottoman calligraphy diploma written by Ali Ra'if Efendi in one thousand seven hundred and ninety-one. An ijazah of this kind let someone sign their own calligraphy after masters approved their samples of writing. Now imagine reading a book aloud with a teacher. You might receive a different kind of ijazah, one that names the teacher and the particular book you are authorized to transmit.
+Karima al-Marwaziyya taught al-Bukhari’s hadith collection in eleventh-century Mecca. One account describes a student copying seven pages from her text. When he was about to compare his notes with the original, Karima insisted on participating in the comparison herself. Her authority included responsibility for the words a learner would carry away.
 
-Two names help us picture those relationships. In eleventh-century Mecca, Karima al-Marwaziyya taught al-Bukhari’s collection of hadith. In Damascus, people sought out Zaynab bint al-Kamal for her knowledge of hadith and her connection to earlier teachers. These examples come from hadith teaching. We can see the difference a teacher makes in science as well. Imagine a student working out a geometry problem from a diagram. She can copy every line and still benefit from a teacher who asks which measurement justifies the next step.
+In Damascus, Zaynab bint al-Kamal became a sought-after transmitter of hadith. Records of reading assemblies name her as the presiding authority, and younger scholars came to receive texts through her. These records connect a named woman, a particular work and the people present for its reading.
 
-Think back to the elephant clock. The shop income in our example can help put a book within reach. A person who knows how a mechanism works can help a student decide what to measure. Access and explanation do different jobs, and a learner needs both.
+Their work belonged to hadith scholarship, with its own methods of authorization. Alongside the endowment and the calligraphy diploma, it shows how much depended on living relationships: somebody could provide the means to study, while somebody knowledgeable listened, checked and took responsibility for what was passed on.
 
-The diploma names what a learner can do. The inscription records what a gift is meant to support. Let’s compare those gifts at the scale of institutions in Cairo, Oxford and Cambridge.
+That support could sustain more than one learner. In Cairo, Oxford and Cambridge, dedicated income helped make teaching continue beyond the lifetime of a donor.
 
 
 Who funds a place to learn?
 
-A gift can support a learner in several ways. At Sultan Hasan’s complex in fourteenth-century Cairo, revenue set aside in a waqf paid teachers and supported students. Its deed describes teaching in the four Sunni schools of law. Some students also had places to live.
+At Sultan Hasan’s complex in fourteenth-century Cairo, a waqf supported teachers and students in the four Sunni schools of law. Dedicated revenue sustained a place where teaching, study and residence could continue together.
 
-At Oxford, Merton’s one thousand two hundred and sixty-four statutes provided for a community of graduate fellows. Estates helped fund their study. The English word college came through French from Latin collegium, an association. A gift could keep supporting new learners after older members moved on.
+Merton’s foundation statutes of one thousand two hundred and sixty-four provided for a community of scholars supported by estates. College comes through French from Latin collegium, an association. At Cambridge, Lady Margaret Beaufort founded a professorship of divinity in one thousand five hundred and two.
 
-At Cambridge, Lady Margaret Beaufort founded a professorship of divinity in one thousand five hundred and two. Its stipend sustained a teaching post. The word chair comes through French and Latin from Greek kathedra, a seat. The seat gave its name to the post.
+Its stipend sustained a teaching post. Chair comes through French and Latin from Greek kathedra, a seat. Cairo’s complex, Oxford’s community and Cambridge’s post had different rules, while each turned property income into time for learning. Comparing them helps us see a practical problem institutions had to solve.
 
-Cairo’s gift sustained a complex, Oxford’s a scholarly community, Cambridge’s a post. These records let us compare how each place supported learning. Historians have debated possible connections between Islamic endowments and European colleges. Tracing such connections takes dated records of people and practices. The word histories shown here can be followed separately.
-
-A teaching post could also be recognized in ceremony. What can a scholar’s gown tell us about these connections?
-
-
-Graduation gowns and robes of honour
-
-Robes can make a position visible. At Oxford, gowns and hoods marked academic rank. The university traces these forms to dress in medieval Europe. This print shows a doctor of divinity in one thousand eight hundred and fourteen.
-
-In Islamic societies, a khila could convey honour. Here Robert Shirley wears Persian attire given by Shah Abbas. He represented the shah in Europe. We know the giver and the recipient. The ijaza we saw earlier records another kind of recognition, a learner’s authorization.
-
-A clothing word travelled too. Arabic jubbah reached southern Italian as jupa, then French as jupe. Its meaning changed. French speakers now use jupe for a skirt.
-
-The word route and the diplomatic gift are documented. A direct Islamic origin for European graduation gowns remains unproven. Similar clothing raises a question that we can investigate through records.
-
-We have seen how people recognized a scholar’s position. What did those scholars mean by knowledge?
-
-
-Knowledge means knowing a thing as it is
-
-Compare these two definitions. Imam al-Juwayni, who lived in the eleventh century, defines ilm in al-Waraqat as knowing the thing known as it is. Two centuries later, a Latin sentence quoted by Jerome de Moravie says, Scientia est cognitio rei sicuti est. Knowledge is knowing a thing as it is.
-
-The phrases follow a similar pattern in both languages. Knowledge has an object. Something is being known. The judgment should agree with how that thing actually is. If we think a paper’s watermark tells us who wrote on it, we need to check what the mark really records. It might identify the mould that made the sheet. That is a claim about paper production. Finding its writer takes other evidence.
-
-This later copy contains al-Juwayni’s text and a commentary. Jerome names Johannes de Garlandia when quoting the Latin definition in a work about music. He goes on to classify kinds of knowledge. The two sentences show a similar standard in different teaching settings. A definition at the start of a book tells the learner what counts as an adequate answer. A convincing claim still has to fit its object, whether the lesson concerns law, music, or a measurement. To establish a translation between these particular texts, we would need a traceable source.
-
-Consider what students learned. Al-Juwayni’s legal primer teaches interpretation and reasoning about evidence. Paris’s arts syllabus includes grammar, logic and works about nature. A medical book gives us a more direct connection.
-
-Let’s open Ibn Sina’s Canon and see how readers encountered its definition of medicine in Arabic and Latin.
+A funded teacher also needed something worth teaching. Ibn Sina’s Canon lets us follow a book into the classroom.
 
 
 How the Canon became a textbook
 
-Why did medical teachers put this book on the syllabus centuries after its author died? The Arabic edition was printed in Rome in one thousand five hundred and ninety-three. The Latin edition was printed in Venice in one thousand five hundred and seven. Latin readers already knew the work through centuries of copying and teaching.
+Ibn Sina wrote the Canon in Arabic in the eleventh century, drawing medical learning into a carefully ordered work. In twelfth-century Toledo, Gerard of Cremona translated it into Latin, giving readers who knew the author as Avicenna access to that organization. The Arabic and Latin printings here came centuries later, when the work already had a long life in teaching.
 
-The Arabic author is Ibn Sina. The Latin book calls him Avicenna. In the twelfth century, Gerard of Cremona translated his medical work from Arabic into Latin in Toledo. We can check what those readers encountered. The Arabic opening says al-tibbu ilm. The Latin opening has medicina est scientia. Both introduce medicine as knowledge of the conditions of the human body, in health and when health has been lost.
+Its opening calls medicine ilm and the Latin renders that as medicina est scientia. Medicine concerns the human body in health and when health has been lost, so that health can be preserved or restored. That purpose gives the student a reason to study the body before choosing a remedy.
 
-The order mattered. Book One begins with the body and the general principles of medicine. The other books go through simple drugs, illnesses of particular organs, conditions that affect the whole body, and compound remedies. Students had a framework that let them ask where a particular case fitted. Renaissance Italian teachers could lecture on that first book, and the French physician Jacques Despars wrote a Latin commentary that dwells on this very definition.
+The Canon has five books. Book One sets out general principles. Book Two treats simple medicines; Book Three, diseases of particular organs; Book Four, conditions affecting the whole body; and Book Five, compound remedies. A student could place a particular illness inside this larger arrangement, then connect it with the appropriate discussion of treatment. Bologna’s statutes assigned selected parts of Book One in the first year, specifying chapters to include or omit.
 
-Despars describes Ibn Sina setting out a definition, raising a difficulty about it, and answering that difficulty. A classroom could start with the same question. If medicine includes practical work, what does it mean to call the whole subject a form of knowledge?
+Jacques Despars, a physician and university teacher in fifteenth-century Paris, spent over twenty years writing a commentary on parts of the Canon. Even its first definition required thought. If medicine includes practical work, why call it knowledge?
 
-A medical teacher had to explain the words in a definition. What happens when a translator takes on a page of numbers that someone needs to calculate with?
+The distinction is between knowing how treatment should be carried out and actually carrying it out. Both theoretical understanding and knowledge of practical procedures can be taught; treating a patient then requires their application. The opening definition could therefore organize a classroom argument, rather than merely supply a sentence to memorize.
+
+A medical reader had to connect a definition with practice. An astronomer reading a translated table had a related problem: did its numbers agree with the procedure the book explained?
 
 
-How do you find a missing number?
+When a translator checks the numbers
 
-A table can save you from doing the same calculation every time. Ptolemy used tables to help astronomers work with angles. This page comes from the book that reached Arabic readers as al-Majisti, and Latin readers as the Almagestum. We can read a little piece of it together.
+Ptolemy’s Almagest reached Arabic readers as al-Majisti and Latin readers through Gerard of Cremona’s translation. Its tables let an astronomer look up a result instead of repeating a long calculation. That convenience made accuracy especially important: one copied number might enter many later calculations.
 
-Imagine two dots on the edge of a circle. The curved edge between them is an arc. A straight line joining the same dots is a chord. When an astronomer knew the angle at the centre of the circle, the table gave them the length of this straight line.
+An arc follows a circle’s edge; a chord joins the same two points in a straight line. A chord table connects the angle at the centre with the length of that straight line.
 
-For half a degree, the table gives a chord length of zero point five two four. For one degree, it gives one point zero four seven. These values use the book’s scale, with a circle radius of sixty, and are rounded here into modern decimals. What if your angle is three quarters of a degree? It is halfway between the two angles, so we can try a length halfway between their two values.
+A reader needed the table and the explanation to work together. Suppose a worked example tells you how a value should be obtained, but the table gives a slightly different result. Copying the page faithfully would preserve the disagreement. Checking the calculation could expose it.
 
-That gives us about zero point seven nine. The book had a column to help its readers make just this kind of estimate.
+Historian Stefan Zieme compared Greek, Arabic and Latin tables and repeated the historical calculations. Some tables in Gerard’s Latin tradition appear to have been recalculated to agree more closely with Ptolemy’s written examples. We cannot identify the calculator with confidence: Gerard himself or a collaborator may have done the work. The translation opened a book to new readers and became an occasion to examine the mathematical content.
 
-When historians compared these Arabic and Latin copies, they found that some numbers had been worked out again in the Latin version. Its columns agreed with one another more closely, which helped readers spot slips made in copying.
+The tables put the sky into numbers on a page. An astrolabe made mathematical relationships movable, so a learner could use them while looking at the sky.
 
-For any table to help the next reader, someone has to keep the page safe and available. In Timbuktu we can see how families carried that responsibility over generations.
+
+The sky in your hand
+
+The astronomical tables we have just considered required a reader who could turn numbers into a useful result. An astrolabe gives that reader another way to work: relationships in the sky become lines on a movable piece of brass. This one was made in Toledo by Muhammad ibn al-Saffar in one thousand twenty-nine or one thousand thirty. Its little projecting tips represent selected stars, and the whole openwork map can turn.
+
+Beneath it is a solid plate engraved for an observer’s latitude. Travel north and the sky changes its position relative to your horizon: the celestial pole stands higher, and familiar stars follow different paths above you. The star map can remain the same while the local plate is exchanged. Our simplified model makes that change visible. The engraved object supplies the historical evidence; the model helps explain what the curves do.
+
+For a time measurement, the observer first needs something measured outdoors, such as a star’s height above the horizon. The sighting arm helps obtain that angle. On the front, the star pointer is moved to the appropriate altitude curve, relating that observation to the instrument’s other scales. The brass does useful work because the observer knows how to connect a measurement with its representation.
+
+This is also why an instrument can become difficult when it reaches a new place or an unfamiliar reader. Both the local setting and the instructions matter. A precisely engraved scale becomes useful only when a person knows which observation to bring to it.
+
+The adjustment becomes easier to understand when the layers are separated: one part carries the stars, another carries the local horizon, and a pin lets them move together.
+
+
+Take an astrolabe apart
+
+In this Dresden museum photograph, another astrolabe has been displayed with its parts separated. The case at the back holds the stack. The solid plates carry the local horizon and altitude curves; the openwork rete carries the stars. Its Latin name means net, while one Arabic name, ankabut, means spider. The central pin holds these pieces together while allowing the star map to rotate.
+
+The sighting arm, usually on the back, is the alidade, from Arabic al-idada. A maker has arranged these parts so that a user can measure an angle and compare it with a model of the sky. Their arrangement makes an astronomical calculation physically manageable.
+
+Another surviving instrument shows what a new owner changed when the brass still worked, but its writing needed explanation.
+
+
+One instrument, new readers
+
+The plate belongs to an eleventh-century astrolabe made in al-Andalus and now preserved in Verona. Its original engraving is Arabic, but later users left other writing on the brass. The larger photograph is a published close view of the Cordoba plate. Its original inscription gives the city’s latitude as thirty-eight degrees and thirty minutes.
+
+Imagine receiving this instrument when you know what a latitude plate does, but cannot easily read its labels. Replacing the whole object would be a large undertaking. Adding a city name you recognise could solve a much smaller, immediate problem.
+
+Above the original inscription are faint scratches. Historian Federica Gigante says the Hebrew word appears to read Cordoba. We print her reading beside the photograph because the individual letters are difficult to distinguish at this scale. The clear type is a transcription, not a claim that every stroke is plainly visible on the brass. It lets us understand the proposed reading while keeping the actual evidence in view.
+
+The next additions raise a different problem. Someone scratched thirty-six near the label; thirty-six and a half also appears. These are Western numerals, interpreted as attempts to amend the latitude. They do not make the instrument more accurate merely by being later. Gigante identifies conflicting, erroneous amendments on this and other plates. The new reader could make the city easier to recognise and still get its position wrong.
+
+That is a valuable detail in a history of knowledge. Adaptation requires judgment, and judgment can fail. The object preserves evidence of use, translation and disagreement even though we cannot name every person who held it. To carry it forward responsibly, a user needed both readable labels and reliable values. Preserving an addition lets us study that decision; accepting its number would require another check against the sky or a trustworthy table.
+
+In England, Chaucer made a related teaching decision: he would keep the instrument’s demanding operations, but explain them in the language his young learner could read.
+
+
+Chaucer teaches the astrolabe in English
+
+Chaucer addresses a young learner named Lowys, who has asked to understand the astrolabe. The prologue says his instrument is made for Oxford’s latitude, and that he knows little Latin. Chaucer’s solution is to explain its operations in English.
+
+He explicitly names Greek, Arabic, Hebrew and Latin as languages in which this knowledge has been taught. English, he argues, can carry the same conclusions. He also makes a teacher’s choice about difficulty: begin with the parts, explain usable operations, and repeat a helpful sentence when the learner needs it.
+
+The later drawing lets us find Aldebaran among the star pointers. Its name carries Arabic al-Dabaran, the follower. A translated lesson can retain words from earlier languages while making the instrument usable in a new one. The learner acquires the unfamiliar terms through an explanation of something he can actually do.
+
+Chaucer’s reader needs a book as well as the brass. That lesson brings our translated texts and travelling objects together.
+
+The pages carrying these lessons also moved through trade. Paper made in Europe could travel east and become the material of a Qur’an manuscript.
+
+
+Paper travels in both directions
+
+At the beginning of our journey, paper helped explain Baghdad’s busy world of books. Here the material returns from another direction. This Qur’an in the Khalili Collection was copied around one thousand three hundred and forty in Iraq or Iran on Italian paper. Its support had crossed the Mediterranean trade networks before the scribe began writing.
+
+The study of the manuscript identifies a watermark bearing a cross. We cannot see that mark in this opening photograph: it is evidence recorded through examination of the paper. A watermark forms when wire on a papermaking mould leaves an area with fewer fibres. Against light, the thinner part reveals the design.
+
+The sheet brings two histories together. Papermaking had travelled from China through Central Asia and Islamic lands into Europe. Italian workshops then developed a substantial export trade, selling paper to readers and scribes around the Mediterranean, including Muslims copying the Qur’an. A useful material could move through communities whose religious commitments differed. Its destination depended on merchants, available supplies and the choices of the people who bought it.
+
+We have followed books, words and instruments into Latin and English. This manuscript makes the return journey tangible. Islamic societies were also places where imported materials acquired new uses.
+
+Those journeys extended far beyond the Mediterranean. In West Africa, scholars and families built their own libraries around the needs of teaching, worship and local life.
 
 
 Timbuktu’s living archive
 
-The astronomy table survives because readers copied and kept it. In Timbuktu, learned families did the same with whole libraries. The city stood in a network of West African trade and scholarship. Books on law and religion belonged in this world, and so did books about numbers and the sky.
+Timbuktu grew where routes across the Sahara met the world of the Niger. Trade brought people and books into contact, and learned families copied, taught and composed works of their own. Their libraries held law, devotional writing and historical chronicles alongside arithmetic and astronomy. These subjects belonged to the life of an African Muslim society with its own teachers, patrons and questions.
 
-The astronomy manuscript contains a circular diagram in red and dark lines. It represents the rotating heavens on a flat page. The copy is dated one thousand seven hundred and thirty-three. The Mamma Haidara Library kept this manuscript in a collection that includes both works used widely in Islamic scholarship and texts produced locally.
+Look at the circular diagram in this astronomy manuscript, copied in one thousand seven hundred and thirty-three. Its red and dark lines help a reader follow the explanation of a moving heaven. The book belonged to the Mamma Haidara Library, one of the family collections through which scholarly work remained available across generations.
 
-Now an arithmetic commentary, with a chart beside the words. Hisab means calculation or reckoning. A diagram in the first book helps a reader picture something moving. A worked example in this book gives a learner something to do in order, and a result to compare with their own. When these two pages are studied together, they make it easier to ask what was taught in West Africa and how a reader was meant to learn it.
+This arithmetic commentary places a chart beside its verbal explanation. A learner can follow an operation in stages and compare a result with the example. Hisab means calculation or reckoning. Such a book could support the sustained work of learning a method, with a teacher explaining where a student had lost the thread. We have already seen a diagram make algebra understandable and a table help an astronomer calculate. Here those teaching possibilities are part of West African intellectual life.
 
-The pages still need care. Ahead of Timbuktu’s occupation in two thousand twelve, many manuscripts were moved to Bamako for safety. Malian librarians and the association SAVAMA worked with library partners to digitize collections and describe individual items. The example is a Library of Congress facsimile from the Mamma Haidara collection. It can be studied at a distance. Its catalogue connects the page to the library, and the original still needs care. That is one way to understand amanah an entrusted responsibility. Each step requires somebody to be answerable for the page and the information that goes with it.
+Keeping a collection is a responsibility that can suddenly become dangerous. During the crisis of two thousand twelve to thirteen, as armed groups occupied Timbuktu and threatened its heritage, Malian owners and librarians decided to move manuscripts away. Abdel Kader Haidara and SAVAMA-DCI helped organize the evacuation. Families had to entrust their collections to others, accepting the risk of moving fragile pages because leaving them in place also carried a risk.
 
-We have seen what West African families kept on paper. In nearby Djenne another kind of knowledge comes down through the people who build and maintain a mosque. We can set their building alongside one in Java.
+The manuscripts travelled in metal chests and in stages to reduce attention. Some journeys used donkey carts or canoes before vehicles could carry the chests onward. There was no single dramatic departure: the operation continued over months. The people doing this work needed local knowledge, coordination and the confidence of families whose history was in those boxes.
+
+The images we have been studying come from a Library of Congress collaboration that began in December two thousand four. They therefore predate the evacuation. A separate HMML project digitized the Mamma Haidara collection between two thousand fifteen and two thousand twenty-three. Cataloguing and conservation connected these later efforts with the collections and their custodians.
+
+A digital page lets us study from a distance, while the original still needs suitable storage and care. Here amanah an entrusted responsibility, has a human weight: families and librarians acted so that another generation could still encounter the work.
+
+In nearby Djenne, another kind of knowledge survives through maintenance and teaching. The mosque takes us from caring for pages to learning with earth, timber and other people.
 
 
 One prayer, two buildings
 
-Compare two mosques. Djenne, in Mali, has earth walls and projecting timber beams. Demak, on the island of Java, has a roof that rises through three tiers. Their materials and shapes reflect the building knowledge available to their communities.
+Djenne in Mali and Demak in Java offer two ways to make a place for Muslim prayer. Their communities share the orientation towards Mecca, while the buildings draw on different materials and inherited skills. Look first at what a builder would have to understand in order to keep each structure standing.
 
-What must a new builder learn? Think of one skill a builder would need.
+At Djenne, sun-dried earth bricks are covered with mud plaster. The projecting timber gives access for maintenance. The present Great Mosque was rebuilt in one thousand nine hundred and seven, within a much older tradition of earthen construction. Its survival requires renewed work as weather wears the surface. A wall made from earth asks its builders to know the material: how to prepare the mixture, apply it and repair it when rain has damaged the protective layer.
 
-In Djenne people gather to renew the mosque’s earthen plaster. Weather makes the job necessary, and working alongside others is a way to learn it. Someone can tell you the steps, and you still have to get the feel of the material in your hands. Demak’s three-tiered roof belongs to a Javanese architectural tradition. There, a builder needs a different set of skills, with different materials and forms.
+That knowledge can pass from an experienced mason to a younger worker through doing the job together. A written description can name the ingredients, while practice teaches how the plaster should feel and how it behaves on the wall. The mosque’s appearance therefore carries a history of repeated labour as well as an architectural design.
 
-Now picture the people inside at prayer. Both communities need the direction of Mecca, the qibla. Astronomers in Islamic societies developed ways to find it. Which direction would each community face?
+At Demak, the eye goes upward to the three roof levels. The mosque’s own architectural account describes thin wooden shingles and a roof carried by columns, including four principal teak supports. A carpenter has to understand how those supports carry a tiered structure and how its pieces meet. The form belongs to Javanese building traditions through which Muslim communities made a locally recognizable place of worship.
 
-From Djenne the initial bearing is about seventy-three degrees. From Demak it’s two hundred and ninety-four. Both are measured clockwise from true north along a great-circle route. These are modern calculations. The historical orientation of either mosque needs local evidence.
+The common direction also looks different from these two places. On a modern globe, the initial bearing towards Mecca is about seventy-three degrees from Djenne and two hundred and ninety-four from Demak, measured clockwise from true north. These calculations help us understand the geographical problem; the historical alignment of either building needs its own local evidence.
 
-The shared question can travel, as the mathematics of direction travelled. The builder also needs knowledge of local materials, weather, and craft.
+A shared religious practice gave builders a common purpose, and each community answered with skills suited to its setting. The result made Islamic life part of the material and social world of the place.
 
-Let’s stay on Java’s north coast. The mosque uses forms familiar to Javanese builders. In Semarang a copyist makes a shared script work for a local language.
+The same relationship between a shared inheritance and local knowledge appears in writing. On Java and in the Ottoman world, writers adapted Arabic letters to languages of their own.
 
 
 Jawi and Ottoman Turkish
 
-The two mosques adapted a shared form. Let’s see something similar in the letters on these two pages. One page was copied in Semarang on Java. The other is an Ottoman chart of an island in the Aegean. Both writers use letters based on Arabic. They write in different languages.
+These two pages use writing systems based on Arabic, but their languages are Malay and Ottoman Turkish. That distinction matters whenever familiar letter shapes make a page look immediately readable. A script supplies signs for writing; a language supplies words and the relationships between them. Writers could inherit the signs and adapt them for sounds that Arabic did not have.
 
-Start with the P sound. In standard Jawi, Pasai begins with a letter shaped like Arabic fa' with three dots above. In Ottoman Turkish, the name Piri begins with a letter shaped like ba' with three dots below. You can hear the same P. The two communities marked it differently.
+The large letters make one small decision visible. Malay Pasai begins with a P sound. In standard Jawi, that sound is written with a letter shaped like Arabic fa', carrying three dots above. Ottoman Turkish uses a different sign for P: the shape of ba' with three dots below, as in Piri. Readers of these languages learned which sound each sign represented.
 
-This is a story of the kingdom of Pasai in Sumatra, copied in Java for later readers. The book is written in Malay. Its title includes a word with an Arabic root. Hikaya means a story. In Malay, hikayat names a kind of traditional narrative.
+The Malay manuscript was copied in Semarang on Java in one thousand seven hundred and ninety-seven. It carries the story of Pasai, a kingdom in northern Sumatra. The work’s movement from Sumatra’s history to a copy made on Java reminds us that Malay writing connected places across the archipelago. The people copying and reading a book could live far from the events it described.
 
-Here is the chart of Paros from the Kitab-ı Bahriye. Piri Reis put names beside the features a sailor could recognize. See the islands and the lines that fan out from the compass roses. The book uses Ottoman Turkish to turn that picture into knowledge a sailor can consult. Malay readers could get a kingdom’s history, and Turkish readers could learn the shape of a coastline.
+Its title includes hikayat, a Malay word related to Arabic hikaya, a story or narrative. The title preserves a linguistic connection, while the language of the work lets Malay readers encounter a history in Malay. Adapting a script widened the kinds of knowledge that could be written for those readers without requiring every subject to be expressed in Arabic.
 
-A script made these stories and charts legible to new readers. Let’s see what else a writer can make legible, from the name of a city to the placement of weights on a balance.
+Now the island of Paros in a later copy of Piri Reis’s Book of Navigation. The coastline and compass roses belong to a book written for maritime knowledge. A reader had to connect named places and written descriptions with the shore and sea a sailor might encounter. A chart made part of that information visible, while the accompanying text could explain details that a line on the page could not convey by itself.
 
+Malay narrative and Ottoman navigation put inherited letters to different tasks. Their readers were connected with a wider written world through recognizable scripts, borrowed words and circulating books, and they made that inheritance useful within the languages and activities of their communities.
 
-Three scholars and their methods
-
-Different writers can give readers different ways to check what they learn. Suppose a traveller mentions a place you have never heard of. Take the entry for Ani in Yaqut’s geographical dictionary. The entry gives its pronunciation and locates the fortified city between Khlat and Ganja. Another traveller can compare those details with their own account.
-
-Al-Khazini worked in Merv. In The Balance of Wisdom, this diagram shows a beam, its marks and the suspended pans. A final weight alone leaves out how the measurement was made. The diagram lets a student find where to hang the pans and what to hold fixed in a second trial. Its title includes mizan a balance.
-
-Al-Samaw'al grew up in a Jewish family and later embraced Islam. He wrote algebra in Arabic. Think back to al-Khwarizmi’s square. Al-Samaw'al worked with expressions that have several powers of an unknown. The modern notation here shows one cube plus another cube making two cubes of the same unknown.
-
-A dictionary can let a reader check a place. A diagram can let a learner reconstruct a measurement. A rule can be applied to another problem. Each writer decides what a learner needs to repeat the work. Those choices help an explanation reach someone in a different place or language. A learner can return to the headword, the position of a pan or the power of the unknown and check the step where they became uncertain. The written detail supports that return.
-
-We can now return to our opening question and ask what Islamic civilization contributed to these journeys.
+We can now bring these different journeys together. What made it possible for knowledge to remain useful as it entered another language, another place or another generation?
 
 
-What did Islam give to knowledge?
+What made these journeys possible?
 
-The same kinds of work recur across the talk. In Abbasid Baghdad, translation made Greek medicine available to Arabic readers. In Toledo, Ibn Sina reached Latin readers. People could teach from books whose authors wrote for someone else, in another language.
+These journeys belonged to a connected civilization of cities, courts, workshops, schools and households. Arabic gave many scholars a shared written language, while translation opened work to other readers. Patrons and markets helped pay for books; teachers explained them; craftspeople made the instruments and sheets; families kept collections available.
 
-Ibn al-Haytham told a reader how to arrange an observation of light. When a table in the Almagest was recalculated, people using the Latin version gained another way to check their work against the page. Both cases give the learner something to try.
+Islamic societies developed knowledge through that combination of people and practices. We saw Muslims, Christians and Jews participate in different settings, with opportunities and constraints that changed across time. Worship gave some work a practical purpose, including questions about time and direction. Medicine, trade, government and curiosity created other demands.
 
-Al-Khwarizmi gave the learner a diagram that explains why a rule works. Once you can explain the rule yourself, you can show someone else what a new step does. Many of the people who did this work in Islamic societies learned from traditions that had travelled a long way to reach them.
+For a moment, think about which experience in these stories felt familiar: reading signs that you once found strange, hearing an explanation that finally made sense, or trusting someone to help you check a difficult step. Some of you may have embraced Islam recently; others have been learning and practising for years. Our shared faith does not give us all the same language or history.
 
-Books from Timbuktu reached later readers because people kept and cared for them. Jawi readers could study a Malay chronicle. Ottoman Turkish readers could navigate a sea atlas. Each work put its inherited script to a different use. Keep one object or page in mind. Who found it, tested it, explained it, or kept it available?
+A learner in Mecca, a scribe on Java and a family in Timbuktu belonged to different worlds within a shared religious life. As Muslims, we share this inheritance across those differences. There is room here to recognize something of your own experience without expecting every life to follow the same path.
 
-Each example needed someone willing to learn and someone willing to share what they knew. I’d like to close with a short prayer for the knowledge we still have to gain.
+The pages and buildings we have seen give that history substance: an explanation someone could follow, a form a community could adapt, and a trust another generation could receive.
+
+With those people and journeys in mind, I would like to close with the prayer for knowledge with which we began.
 
 
 Rabbi zidni ilma
 
-Rabbi zidni ilma. “My Lord, increase me in knowledge.” We heard this before trying al-Khwarizmi’s example. It’s a prayer we can say before we open a book or sit down to work out a problem with somebody else.
+Rabbi zidni ilma.. My Lord, increase me in knowledge.
 
-May Allah increase us in knowledge and help us pass it on with care. Thank you to the Presidency of Religious Affairs and to everyone who organized this series. Thank you for following the journey with me.
+The prayer gives us a fitting place to end because every journey we have followed depended on someone who still had something to learn. Hunayn returned to a translation; a student checked a text with Karima; a carpenter learned how to carry a roof; a librarian accepted responsibility for a collection. Knowledge grew through work shared with other people, and through care for those who would come afterwards.
 
-Two closing questions will help us revisit how the numbers travelled and what the experiment with light showed.
+May the knowledge we receive deepen our understanding, and may we remember with gratitude the people through whose work it has reached us. Thank you for your attention and for the time we have shared.
 
-
-Questions and answers
-
-We can finish by returning to two questions.
-
-How did the numerals reach Europe?
-
-We can trace more than one route. The decimal system developed in India, and Arabic writers learned and explained it. In a Latin manuscript, a form of al-Khwarizmi’s name stands at the beginning of an explanation of reckoning. Fibonacci learnt the notation in a Mediterranean setting and explained it for readers in Latin. A person might have met the numbers in a translated book, in a merchant’s workplace, or through someone teaching that practice. The forms did not become standard everywhere at the same speed. In a Renaissance printed arithmetic book you can see what teaching with those signs looked like in a later setting. The separate witnesses let us ask where people learned to calculate and whose methods they had access to.
-
-What did the pinhole experiment show?
-
-It shows a particular effect. Light from the top of an object passes through the opening to a lower position on the screen. Light from the bottom reaches a higher position. Moving the screen changes the size of that image in a predictable way. The photograph and the model help us check different things. The photograph shows that an image actually formed. The model keeps the geometry simple enough that we can trace each path. A new observer can repeat the arrangement and compare what they see with what was predicted. Kepler later applied optical geometry to a different question, the image on the retina.
-
-Thank you for your questions and for joining me today. The presentation includes the archive records for the pages and instruments we have discussed. May Allah increase us in knowledge. As-salamu alaykum wa rahmatullah.
+We now have five minutes for your questions.
