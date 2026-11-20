@@ -1,0 +1,95 @@
+HOW KNOWLEDGE TRAVELS — REVİZYON SENTEZİ
+20 Kasım 2026 · Dr. Ali Çetinkaya
+
+Amaç ve ana karar
+
+Bu revizyonun ölçüsü, yalnızca daha fazla bilgi veya daha fazla slayt değildir. Dinleyici her örnekte şu üç sorunun cevabını duyabilmelidir: Ne görüyorum? Burada insanın çözmeye çalıştığı sorun ne? Bunun bilginin başka bir kültürde anlaşılması ve kullanılmasına katkısı ne?
+
+Verilen başlık korunmuştur: “How Knowledge Travels: Islam in Different Cultures.” Bilim tarihi örnekleri, çeviri, öğrenme ve yeni bilgi üretme üzerinden bu başlığa bağlanır. İslam medeniyeti yalnızca eski Yunan bilgisi ile Avrupa arasındaki bir geçiş istasyonu olarak anlatılmaz. Müslümanların yeni çalışmalar üretmesi, eğitim için kaynak ayırması, kitapları kullanması ve farklı yerel kültürlerde ortak inancı yaşaması anlatının içindedir. Hristiyan çevirmenlerin ve farklı toplulukların katkıları da açıkça tanıtılır.
+
+Dinleyici zaten Müslümandır. Açılış, ortak iman ile farklı dil ve hayat tecrübelerini birlikte kabul eder. Metin bir ihtida çağrısına veya dinleyiciye ödev veren bir kapanışa dönüşmez. Kur’an alıntıları Arapça asıllarıyla yer alır; ayetlerin tarihî bağlamı korunur. “Yeryüzünde gezin” ifadesi, yalnız bilim tarihini anlatan bir ayetmiş gibi sunulmaz.
+
+İki dış değerlendirmenin farkı
+
+ZIP içindeki rapor yalnız bir öneri listesi değildir: revize HTML, tam konuşma, temiz dinleme metni, süre tablosu ve kaynak notları içerir. Gerçekte 39 sahne sunar: 32 anlatım, 1 soru-cevap ve 6 isteğe bağlı kaynak. Bir Aphorisms karşılaştırması ekler; eski ana sırayı büyük ölçüde korur. Yunanca bağlamı mevcut slaytın paneline ekler ve Fibonacci’yi taşımaz.
+
+Ayrı HKT_Yapilacaklar_ve_Oneri_Raporu_2026-11-20.md ise uygulanmış teslim değil, 40 slaytlık bir öneridir. Ayrı Yunanca bağlamı ve çeviri slaydı, ayrıca Fibonacci’nin yer değiştirmesini önerir. Bazı bilgileri [B], yani bellekten ve doğrulama bekliyor diye işaretler. Bu işaretli öneriler, sırf raporda yazıyor diye tarihsel kanıt kabul edilmedi.
+
+V5 bu iki yaklaşımı birleştirir: bağımsız “Why look for Greek books?” bağlamı, gerçek Aphorisms karşılaştırması ve Fibonacci’nin taşınması. Son yapı 40 sahnedir: 33 anlatım, 1 gerçek soru-cevap, 6 süre dışı kaynak eki. Kaynak sahne anahtarları ile seyirciye görünen yeni slayt numaraları ayrı tutulur.
+
+Altı bölümün düşünce akışı
+
+1. Setting out — Önce soru ve dönem kurulur. Bağdat’ta insanlar neden eski kitapları arıyordu? Dil, bir kitabı neden kullanılamaz hâle getirebilir? Harita etkileşimi bu girizgâhtan sonra gelir.
+
+2. Getting the book right — Eski tıp kitabının Arapça okuyucuya ulaşmasından, Hunayn’ın eksik nüsha arayışına ve kendi çevirisini düzeltmesine geçilir. Sonra aynı kısa cümle iki dilde okunur. Anlamı çevirmek yetmez: yeni okuyucu için kopya, kopyacı, malzeme ve kitap ticareti gerekir. Kâğıt haritasının burada bulunmasının sebebi budur.
+
+3. Adding new knowledge — Kitaba erişim, eski bilgiyi aynen tekrarlamakla sonuçlanmaz. Cebir örneğinde bir kuralın neden doğru olduğu görülür; optikte bir iddia deneyle sınanır. İbnü’l-Heysem’den sonraki okuyucuların soruyu sürdürüp cevabı değiştirmesi, ardından Cezerî’nin makinenin gizli işleyişini yazıya geçirmesi anlatılır.
+
+4. Teaching it — Bir metin veya tasarımın devamı için öğretmenin zamanı, gelir ve güven gerekir. Vakıf, icazet ve kadın hocalar bu insanî ihtiyacı görünür kılar. Canon’un ders kitabı hâline gelmesi, ardından iki anlaşılır vaka, “Bu düzen öğrenciye ne kazandırdı?” sorusunu cevaplar.
+
+5. New readers, new languages — Latince çeviride cetvelleri kontrol etmekten, yerel ufka uyarlanan usturlaba ve yeni okuyucuların eklediği yazılara geçilir. Chaucer bir öğrenciye evinin diliyle öğretir. Fibonacci buradan sonra gelir: Kuzey Afrika’da öğrenilen hesap, Latince kitap ve İtalyanca uygulamalı dersler. İtalyan kâğıdının yeniden Müslüman okuyucuya ulaşması, tek yönlü “Doğu’dan Batı’ya” hikâyesini açar.
+
+6. Living cultures — Kitap trafiğinin ardından Timbuktu’da bu kitaplarla neler öğrenildiği ve neden korundukları görülür. Cami yapıları ve Jawi/Osmanlı Türkçesi, ortak imanın farklı malzeme, beceri ve dillerle yaşandığını gösterir. Sonuç yeni bir konu açmaz; başlıktaki soruya ve baştaki “Receive, Test, Add, Pass on” fiillerine döner.
+
+Karar dökümü
+
+01 | Kabul: Açılışa selam, ortak soru, 9th-century Bağdat zemini ve yol haritası eklendi. İlk harita sorusu artık zeminden önce gelmez.
+
+02 | Kabul ve genişletme: Yunanca kitapların neden arandığı ayrı sahnede açıklanır. Tıp, şekiller ve gökyüzü hakkında çalışılabilir açıklamalar sunmaları vurgulanır. Süryanice bilen Hristiyanların rolü ile Hint ve İran kaynakları görünürdür; Yunanca tek başlangıç sayılmaz.
+
+03 | Kabul: İlk kullanımda kısa biyografiler ve terim açıklamaları konuşmanın içine yerleştirildi. “Commentary”, “chair”, “abbaco” gibi adların ne işe yaradığı söylenir. Dil, yetişkin dinleyici için B1 düzeyinde tutulmaya çalışıldı; bu, bağımsız bir dil sınavı sonucu değildir.
+
+04 | Değiştirerek kabul: Ayrı rapordaki Dioskorides tarifinin yerine ZIP’teki Aphorisms I.1 seçildi. Kısa düşünce, iki gerçek sayfa ve iki belirgin kelimeyle daha güvenilir ve okunabilir bir karşılaştırma sağlar. Tarifin ölçüleri ve Arapça metin kolu üzerine açık sorular ana anlatıya taşınmadı.
+
+05 | Kabul, kaynak sınırıyla: “Life is short; learning the medical craft takes time.” Yunanca technē ile Arapça ṣināʿah burada hekimlik becerisidir. Yunanca görüntü 1844 edisyonu, Arapça görüntü 1291 nüshasıdır; Hunayn’ın kendi masasında kullandığı iki sayfa değildir. Bu belirli Arapça biçimin kesin Süryanice ara halkası kurulmadı; Latince eklenerek sahte bir üç-dil zinciri yapılmadı.
+
+06 | Koruma ve netleştirme: Hunayn’ın iki farklı eseri ayrılır. On Demonstration, eksik kanıtlama kitabını arama örneğidir. On Sects, yaklaşık 20 ve 40 yaşında yaptığı çeviri/düzeltme karşılaştırmasıdır; “sects” burada tıp düşüncesi ekolleridir. Belgeli Yunanca–Süryanice–Arapça çalışma sırası bu ikinci esere aittir.
+
+07 | Değiştirerek kabul: Kitap edinmenin zorluğu somutlaştırılır: bulmak, erişim izni almak, ödünç almak, satın almak ve yeni nüsha yazdırmak farklı işlerdir. Malzeme, yolculuk, eğitimli emek ve kontrol anlatılır. Hayalî kitap fiyatı, kesin kopyalama süresi veya bugünkü para karşılığı verilmez. Önerilen 500 dinar, tek kitabın fiyatı veya Hunayn’ın bireysel maaşı gibi kullanılamaz; Fihrist’teki grup desteği ve patron atfı sorunu nedeniyle ana konuşmaya alınmadı.
+
+08 | Kabul: Fibonacci, Chaucer’dan sonraya taşındı. Böylece cebirden 1478’e, oradan yeniden 11th-century optiğe sebepsiz sıçrama azalır. Abbaco, tüccar ve zanaatkâr ihtiyaçlarına yönelik uygulamalı hesap öğretimi olarak açıklanır; “kilise dışındaki ilk okul” iddiası kullanılmaz.
+
+09 | Kabul ve somutlaştırma: Canon’un adı, beş kitaplık düzeni, öğrenciye verdiği bağlantılar ve Latin okullarındaki kullanım açıklanır. Önceden hiç tıp kitabı yokmuş gibi anlatılmaz. Kırık kemik ile idrar gözlemi, tarihî öğrencinin eylem, sebep ve belirti arasındaki ilişkiyi nasıl düşündüğünü gösterir.
+
+10 | Kabul, ayrı çeviri örneği olarak: الطب علم / Medicina est scientia, Canon’un aynı açılışından karşılaştırılır. Gerard’ın 12th-century Arapça–Latince çevirisi ile ekrandaki 1593 Arapça ve 1507 Latince basımlar ayrıdır. Bu geç basımlar paralel tanıklardır; 1593 basımı 1507’nin kaynağı değildir. Ortaçağ scientia kelimesi, bugünkü bütün laboratuvar bilimiyle özdeşleştirilmez.
+
+11 | Kabul: Etkileşimler görünür bir soruya bağlanır: kuralın sebebini bulmak, tek lambayı kapatıp sonucu öngörmek, karşılık gelen kelimeleri izlemek, yerel ufku değiştirmek, bir sayıyı kontrol etmek. Gerçek nesne, daha geç nüsha, modern fotoğraf ve öğretim modeli etiketleri ayrılır. Usturlap konuları tek blokta tutulur. Bu rapor, yeni sürümün bütün tarayıcı kontrollerinin tamamlandığına dair beyan değildir.
+
+12 | Koruma ve sınırlama: Vakıf/college/chair karşılaştırması ortak finansman sorununu anlatır; benzerlik tek başına doğrudan köken kanıtı sayılmaz. Perspektif, mezuniyet giysileri ve benzer ilim tanımları gibi ayrıntılar 6 isteğe bağlı ekte kalır. Timbuktu’da 2004 kaynak kaydı, 2012–2013 tahliye ve 2015–2023 dijitalleştirme birbirine karıştırılmaz.
+
+Konuşma, geçiş ve süre
+
+Geçişler yalnızca ortak bir kelime bulmaya dayanmaz. Örneğin anlaşılır çeviri, “Başka okuyucu bu kitaba nasıl sahip olacak?” sorusunu doğurur; malzeme ağı yeni eser yazımına; bir mühendislik tasarımı bunu kimin öğreteceği ve destekleyeceği sorusuna bağlanır. “Bu neden önemli?” cevabı ayrı editör notunda bırakılmayıp söylenecek paragraflara konur.
+
+Konuşmacı metni ve ElevenReader sürümü aynı sözlü metinden üretilir. Temiz dinleme dosyasında sahne yönergeleri ve “Spoken transition” etiketi kaldırılır, gerçek geçiş cümlesi korunur. Tarihler iki dosyada da 1154, 1202, 1604 gibi rakamla kalır. Arapça asıl ile okunuşun iki kez okunması gerekmez.
+
+Plan toplam 100:00’dır: 95:00 anlatım, amaçlı katılım ve küçük esneklik; 95:00–100:00 gerçek sorular. Güncel model, 110 kelime/dakika varsayımıyla yaklaşık 85,12 dakika konuşma, 6,03 dakika etkinlik ve 3,85 dakika esneklik ayırır. Rakamların seslendirilmesi de süre tahmininde dikkate alınır. Bu bir hesaplanmış programdır; sesli prova veya kayıtla ölçülmüş kesin süre değildir. Kaynak eklerinin tümünü anlatmak 100 dakikalık plana dahil değildir.
+
+Temel doğrulama bağlantıları
+
+Hunayn’ın kendi Risāla metni; On Sects, İskenderiye okuma düzeni ve On Demonstration maddeleri:
+https://www.graeco-arabic-studies.org/view/hunayn.risalah-orig-ar1
+
+On Sects Arapça metni ve belgeli çeviri kaydı:
+https://www.graeco-arabic-studies.org/view/gal.desectis-transl-ar1
+
+Aphorisms I.1 Yunanca metni:
+https://www.graeco-arabic-studies.org/view/hipp.aphor-orig-gr1
+
+Aynı Arapça açılış, British Library Or 9452, f.1v:
+https://www.qdl.qa/en/archive/81055/vdc_100023646098.0x000014
+
+2026 araştırması; belirli Aphorisms pasajındaki Süryanice bağlantısının açık soruları:
+https://goha.bbaw.de/working_papers/Overwien_Arnzen_2026_Arabic_Aphorisms.pdf
+
+Canon’un Arapçası ile Gerard Latincesini eşleyen eleştirel edisyon kaydı:
+https://www.research.unipd.it/handle/11577/3470629
+
+1507 Canon basımı/çeviri eşlemesi:
+https://www.sciencia.cat/db/sciencia-?bib=8775
+
+Fihrist, Flügel edisyonunun dijital metni; kitap arayışı ve çevirmen grubuna destek kaydı:
+https://raw.githubusercontent.com/OpenITI/0400AH/master/data/0385IbnNadim/0385IbnNadim.Fihrist/0385IbnNadim.Fihrist.GRAR000030-ara2
+
+Timbuktu, Mamma Haidara Kütüphanesi dijitalleştirme dönemi:
+https://hmml.org/collections/repositories/mali/mamma-haidara-library/

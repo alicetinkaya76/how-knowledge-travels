@@ -1,0 +1,35 @@
+slide,scene,title,act,elapsed,slot_seconds,spoken_words_with_numeric_allowance,speech_seconds,activity_seconds,flex_seconds
+S01,S01,How Knowledge Travels: Islam in Different Cultures,Setting out,00:00–03:50,230,389,212.18,12,5.82
+S02,S02,You already speak this history,Setting out,03:50–05:40,110,171,93.27,10,6.73
+S03,S03,"Travel, and look",Setting out,05:40–06:55,75,125,68.18,2,4.82
+S04,S04,Knowledge is a trust,Setting out,06:55–08:20,85,150,81.82,0,3.18
+S05,REV-CONTEXT,Why look for Greek books?,Setting out,08:20–11:10,170,275,150.0,10,10.0
+S06,S06,A medical book finds Arabic readers,Getting the book right,11:10–14:22,192,329,179.45,10,2.55
+S07,S07,Ḥunayn searches for a missing book,Getting the book right,14:22–18:01,219,379,206.73,10,2.27
+S08,S08,Ḥunayn returns to his own translation,Getting the book right,18:01–22:21,260,439,239.45,15,5.55
+S09,REV-TRANSLATION,"One thought, two languages",Getting the book right,22:21–25:10,169,258,140.73,24,4.27
+S10,S13,A translation needs a book,Getting the book right,25:10–27:39,149,256,139.64,5,4.36
+S11,S115,The bookseller’s list,Getting the book right,27:39–30:11,152,264,144.0,6,2.0
+S12,S114,Paper travelled through a network,Getting the book right,30:11–32:20,129,215,117.27,8,3.73
+S13,S10,Algebra: from a rule to a reason,Adding new knowledge,32:20–37:50,330,543,296.18,30,3.82
+S14,S09,How can light turn a scene upside down?,Adding new knowledge,37:50–41:39,229,415,226.36,0,2.64
+S15,S109,"Three lamps, one opening",Adding new knowledge,41:39–44:08,149,233,127.09,15,6.91
+S16,S112,A new answer inside the eye,Adding new knowledge,44:08–47:31,203,367,200.18,0,2.82
+S17,S12,A clock that starts again,Adding new knowledge,47:31–50:30,179,324,176.73,0,2.27
+S18,S14,Who pays? Who teaches?,Teaching it,50:30–54:00,210,342,186.55,16,7.45
+S19,S15,Who funds a place to learn?,Teaching it,54:00–55:40,100,155,84.55,8,7.45
+S20,S16,How the Canon became a textbook,Teaching it,55:40–59:30,230,353,192.55,12,25.45
+S21,S120,What could a student learn from the Canon?,Teaching it,59:30–61:40,130,192,104.73,12,13.27
+S22,S116,When a translator checks the numbers,"New readers, new languages",61:40–64:20,160,250,136.36,8,15.64
+S23,S11,The sky in your hand,"New readers, new languages",64:20–66:50,150,247,134.73,8,7.27
+S24,S111,Take an astrolabe apart,"New readers, new languages",66:50–68:05,75,117,63.82,0,11.18
+S25,S17,"One instrument, new readers","New readers, new languages",68:05–71:05,180,285,155.45,16,8.55
+S26,S25,Chaucer teaches the astrolabe in English,"New readers, new languages",71:05–73:05,120,174,94.91,8,17.09
+S27,S101,From Béjaïa to a merchant’s classroom,"New readers, new languages",73:05–76:35,210,331,180.55,12,17.45
+S28,S118,Paper travels in both directions,"New readers, new languages",76:35–78:50,135,208,113.45,10,11.55
+S29,S18,Timbuktu’s living archive,Living cultures,78:50–83:13,263,433,236.18,24,2.82
+S30,S19,"One prayer, two buildings",Living cultures,83:13–87:04,231,364,198.55,30,2.45
+S31,S20,Jawi and Ottoman Turkish,Living cultures,87:04–90:12,188,308,168.0,18,2.0
+S32,S26,What made these journeys possible?,Living cultures,90:12–93:21,189,310,169.09,17,2.91
+S33,S27,Rabbi zidnī ʿilmā,Living cultures,93:21–95:00,99,162,88.36,6,4.64
+S34,S28,Questions and answers,Questions,95:00–100:00,300,0,0,300,0
